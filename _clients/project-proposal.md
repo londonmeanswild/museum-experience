@@ -21,9 +21,6 @@ Our product could allow for art experts to discuss the relationship between cert
 Our vision is to create an application that will allow people to search for art based on emotions and feelings. Our current plan is to help people who are bad at being romantic or expressing their feelings, be better at it through artwork. 
 
 
-
-
-
 [Contextual Inquiry write-up](https://londonmeanswild.github.io/museum-experience/groundwork/research/2018/09/26/contextual-inquiry/)
 [Contract](https://londonmeanswild.github.io/museum-experience/teambuilding/groundwork/2018/09/26/contract/)
 [Logo](https://londonmeanswild.github.io/museum-experience/groundwork/2018/09/26/logo/)
