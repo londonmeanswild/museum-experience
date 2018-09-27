@@ -1,5 +1,5 @@
 ---
-name: Project Proposal:
+name: project proposal
 subtitle: heART
 image_path: 
 ---
