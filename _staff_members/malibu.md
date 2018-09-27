@@ -1,5 +1,5 @@
 ---
 name: Malibu
-position: Critic
+position: critic & consultant
 image_path: /images/malibu.jpg
 ---
