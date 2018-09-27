@@ -2,5 +2,5 @@
 name: Landon Marchant
 position: Co-founder
 image_path: /images/landon.jpg
-twitter:
+twitter: https://twitter.com/landonamarchant
 ---
