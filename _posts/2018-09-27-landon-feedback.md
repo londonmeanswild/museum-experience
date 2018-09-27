@@ -12,7 +12,7 @@ show_comments: true
 
 #### Analysis of Problem
 
-*Probably should've weighted a little more text to the problem, and less to the solution. User research will give more guidance on what the design solution will be. It is very difficult to come up with solutions until you understand the problem!
+* Probably should've weighted a little more text to the problem, and less to the solution. User research will give more guidance on what the design solution will be. It is very difficult to come up with solutions until you understand the problem!
 
 #### Report Clarity and Presentation
 
