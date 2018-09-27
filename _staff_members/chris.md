@@ -1,6 +1,6 @@
 ---
 name: Chris Anton
-position: Co-founder
+position: co-founder
 image_path: /images/chris.jpg
 twitter:
 ---
