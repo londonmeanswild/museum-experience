@@ -17,16 +17,16 @@ Pink: Landon
 
 #### Forms:
 
-![Forms](/images/ideation/form.jpg)
+![Forms](/museum-experience/images/ideation/form.jpg)
 
 #### Interactions:
 
-![Interactions](/images/ideation/interaction.jpg)
+![Interactions](/museum-experience/images/ideation/interaction.jpg)
 
 #### Features:
 
-![Features](/images/ideation/features.png)
+![Features](/museum-experience/images/ideation/features.png)
 
 #### Tasks:
 
-![Tasks](/images/ideation/task.jpg)
+![Tasks](/museum-experience/images/ideation/task.jpg)
