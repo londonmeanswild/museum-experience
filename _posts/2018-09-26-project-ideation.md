@@ -10,7 +10,9 @@ show_comments: true
 ### Project Ideation
 
 Blue: Kenneth
+
 Yellow: Chris
+
 Pink: Landon
 
 #### Forms:
