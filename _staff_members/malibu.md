@@ -1,6 +1,5 @@
 ---
 name: Malibu
-position: Honorary Member
+position: Critic
 image_path: /images/malibu.jpg
-twitter:
 ---
