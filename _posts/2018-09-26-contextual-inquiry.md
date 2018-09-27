@@ -1,5 +1,5 @@
 ---
-title: xontextual inquiry
+title: contextual inquiry
 categories:
   - groundwork
   - research
