@@ -17,9 +17,9 @@ show_comments: true
 #### Report Clarity and Presentation
 
 * For future presentations, you/your-team might want to consider structures for an elevator pitch. Here's one for research ([but works well for the UX research in this class)](https://academia.stackexchange.com/questions/1779/what-are-the-elements-of-an-effective-elevator-pitch) to an external site.
-  * 1. What is the basic problem?
-  * 2. Why is solving this problem important?
-  * 3. How are you solving this problem in an original (conversely, well-though-out) way?
+  * What is the basic problem?
+  * Why is solving this problem important?
+  * How are you solving this problem in an original (conversely, well-though-out) way?
   
   #### Novelty and Creativity
 * When brainstorming with your team, be sure to start with coming up with *a lot* of ideas, even bad ones. Find the good pieces in the individual idea and combine them into an interesting problem as a team.
