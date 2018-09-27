@@ -11,7 +11,7 @@ Museum databases are flat and one-dimensional. There is no way to quantify the t
 #### Our Approach
 We have decided to try and use the responses people have to artwork in order to add depth to museum data files. We want to show the "texture and personality" of a collection, and the way exhibits make people feel. 
 
-The base for this project is Landon's [emotional responses to art project proposal(). Our product development is inspired by a combination of Kenneth's [idea of categorizing art by keywords](https://kennethan12.github.io/project/project-proposal/), Chris's [guided tour](https://cla1.github.io/2018-09-21-project-proposal/) concept, and our desire to connect people with artwork that resonates with them. 
+The base for this project is Landon's [emotional responses to art project proposal](https://londonmeanswild.github.io/CS376/CSCI376/project-proposal/). Our product development is inspired by a combination of Kenneth's [idea of categorizing art by keywords](https://kennethan12.github.io/project/project-proposal/), Chris's [guided tour](https://cla1.github.io/2018-09-21-project-proposal/) concept, and our desire to connect people with artwork that resonates with them. 
 We intend to quantify the museum experience, then use that data for two things. 
 * First, we will deepen the existing museum database by adding user experiences. 
 * Second, we want to use this data to recommend art to people based on themes, emotions, and related pieces. 
