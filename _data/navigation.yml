@@ -1,9 +1,9 @@
 links:
-- name: Portfolio
+- name: portfolio
   link: /portfolio/
-- name: Blog
+- name: iterative updates
   link: /blog/
-- name: About
+- name: our team
   link: /about/
-- name: Contact
-  link: /contact/
+# - name: Contact
+  # link: /contact/
