@@ -1,7 +1,7 @@
 ---
 name: heART
 subtitle: our project proposal
-image_path: 
+image_path: /images/clients/blank.png
 ---
 
 #### The Problem
