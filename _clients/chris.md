@@ -1,6 +1,6 @@
 ---
 name: Chris Anton
-subtitle: personal portfolio
+subtitle: personal portfolio page
 external_url: https://cla1.github.io/
 image path: /images/clients/blank.png
 ---
