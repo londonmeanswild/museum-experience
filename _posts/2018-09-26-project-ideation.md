@@ -1,5 +1,5 @@
 ---
-title: Project Ideation
+title: project ideation
 categories:
   - teamwork
   - ideas
