@@ -82,10 +82,12 @@ section {
 
 		h2, p {
 			max-width: 90%;
+			color: #b8483b;
 		}
 
 		h2 {
 			font-size: 3.5rem;
+			color: #b8483b;
 		}
 
 		p {
@@ -108,7 +110,7 @@ section {
 	padding: 13px 38px;
 	border-radius: 3px;
 	display: inline-block;
-	color: $brand-color;
+	color: #b8483b;
 	text-decoration: none;
 	cursor: pointer;
 	margin: 20px 0 0 0;
@@ -216,7 +218,8 @@ section {
 
 	.name {
 		font-size: 1.3rem;
-		color: $brand-color;
+		// color: $brand-color;
+		color: #b8483b;
 	}
 
 	.position {
