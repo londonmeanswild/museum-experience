@@ -56,7 +56,8 @@ nav {
 	a {
 		margin: 0 3px;
 		padding: 20px 10px;
-		color: rgba(255, 255, 255, 0.8);
+		// color: rgba(255, 255, 255, 0.8);
+		color: #b8483b;
 		transition: 0.2s ease-in-out;
 		display: none;
 		font-size: 1rem;
@@ -73,6 +74,7 @@ nav {
 			right: 10px;
 			top: -22px;
 			font-size: 1.9em;
+			color: #b8483b;
 			border: 0;
 
 			@media #{$mid-point} {
@@ -86,7 +88,9 @@ nav {
 	}
 
 	a:hover {
-		color: #fff;
+		//color: #fff;
+		color: #b8483b;
+		
 
 		@media #{$mid-point} {
 			border-bottom: 2px solid rgba(255, 255, 255, 0.6);
@@ -102,12 +106,14 @@ nav {
 
 			&:hover {
 				background: #fff;
-				color: $brand-color;
+				//color: $brand-color;
+				color: #b8483b;
 			}
 		}
 	}
 
 	a.active {
-		color: #fff;
+		//color: #fff;
+		color: #b8483b;
 	}
 }
