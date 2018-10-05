@@ -1,6 +1,7 @@
 ---
 name: heART
 subtitle: contextual inquiry review
+image_path: /images/clients/blank.png
 ---
 #### Summary of Key Findings
 Our inquiries analyzed WCMA curators and two Williams students, one who was a summer intern at WCMA and another who is an art enthusiast (we have another CI scheduled at a later date, but this will focus on the people we have interviewed). From these inquiries, we developed a better understanding of both visitor and curator desires for the museum. In particular, the Williams students seemed to want a deeper experience where they can work to understand the art, and possibly even discuss it with others. Curators, on the other hand, want to get better and more direct feedback from the visitors. This is especially useful if they can get a sense of what frustrates people, and which galleries people are most interested in. Even though these goals have some overlap, we have to be careful that we don't spread our design too thin. We have ideas to improve the experience of either of our current users, but we are still trying to figure out how these can come together into a coherent design (although we may have to decide to focus on one group of users OR the other).
@@ -9,13 +10,13 @@ Our inquiries analyzed WCMA curators and two Williams students, one who was a su
 The full writeup for each encounter can be found [here](https://londonmeanswild.github.io/museum-experience/groundwork/research/2018/10/04/CI-writeups/). 
 
 * U1 is a curator at WCMA who deals primarily in finding art among contemporary living artists. They were interviewed in their office. 
-⋅⋅⋅ "find pieces that invoke intriguing ideas and unexpected discussion points"
+  * "find pieces that invoke intriguing ideas and unexpected discussion points"
 * U2 is a curator at WCMA who deals primarily with 18th and 19th century portraits and photographs. This was a combination contextual inquiry and interview. It took place in the WCMA prints collection room and ended in the WCMA artwork storage room.
-⋅⋅⋅"...worry that people who are confused or frustrated aren’t expressing this"
+  * "...worry that people who are confused or frustrated aren’t expressing this"
 * U3 is an art enthusiast who has taken several art history courses, grew up frequenting museums, and is a student at Williams. This contextual inquiry took place in the WCMA ground floor hallway gallery and Object Lab.
-⋅⋅⋅"enjoying the challenge of understanding the relationship between artworks (in the Object Lab)"
+  * "enjoying the challenge of understanding the relationship between artworks (in the Object Lab)"
 * U4 is a former summer intern at WCMA and student at Williams. This contextual inquiry took place in the Object Lab. 
-⋅⋅⋅"...figuring out what the work is supposed to mean, versus what it means to me."
+  * "...figuring out what the work is supposed to mean, versus what it means to me."
 
 #### analysis, themes, processes
 
