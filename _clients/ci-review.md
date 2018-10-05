@@ -2,6 +2,8 @@
 name: heART
 subtitle: contextual inquiry review
 ---
+#### Summary of Key Findings
+Our inquiries analyzed WCMA curators and two Williams students, one who was a summer intern at WCMA and another who is an art enthusiast (we have another CI scheduled at a later date, but this will focus on the people we have interviewed). From these inquiries, we developed a better understanding of both visitor and curator desires for the museum. In particular, the Williams students seemed to want a deeper experience where they can work to understand the art, and possibly even discuss it with others. Curators, on the other hand, want to get better and more direct feedback from the visitors. This is especially useful if they can get a sense of what frustrates people, and which galleries people are most interested in. Even though these goals have some overlap, we have to be careful that we don't spread our design too thin. We have ideas to improve the experience of either of our current users, but we are still trying to figure out how these can come together into a coherent design (although we may have to decide to focus on one group of users OR the other).
 
 #### participants
 The full writeup for each encounter can be found [here](https://londonmeanswild.github.io/museum-experience/groundwork/research/2018/10/04/CI-writeups/). 
@@ -36,7 +38,7 @@ We have an additional inquiry lined up with an Art History professor who special
 #### task analysis questions
 
 1. Who is going to use the design?
-⋅⋅⋅ In our current ideation, curators will use the technological aspect of our design. 
+⋅⋅⋅ In our current ideation, curators will use the technological aspect of our design. We will still try to incorporate museum visitors as much as possible, but the curators will be the main focus.
 2. What tasks do they now perform?
 ⋅⋅⋅ They create exhibits based on time, date, style, or theme. Curators select artwork and arrange pieces in specific sequences in order to educate, inspire, or confront visitors. Curators also ocassionally review feedback left from people who are willing to engage with current WCMA systems (exhibition feedback and feedback given to front-desk staff). 
 3. What tasks are desired?
