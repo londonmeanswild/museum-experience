@@ -28,3 +28,7 @@ Pink: Landon
 #### Tasks:
 
 ![Tasks](/museum-experience/images/ideation/task.jpg)
+
+#### In-Class Sketches:
+![Sketches](/museum-experience/images/HCI-class-sketches.jpg)
+      
