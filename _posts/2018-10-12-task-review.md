@@ -7,15 +7,20 @@ author_staff_member: Landon, Kenneth, Chris
 show_comments: true
 ---
 
+### collect pre-existing data from WALLS journals (easy, existing)
+
+Lili is a student intern who works for WCMA. She started working during the summer WALLS exhibit, and one of her tasks was to transcribe handwritten visitor data. WALLS involved having users journal about pieces of artwork, so she spent several hours a day typing these responses into a computer. The responses are organized by artwork. While some of these responses are displayed on the WALLS [website](https://wcma.williams.edu/walls/), this information is also not easily accessible through the museum database. Lili spends the next several days adding journal responses to the database. She then realizes that there is no good way to search through journal data, so she asks her supervisor about tagging responses by themes. Lili and her supervisor realize that this is only one person's interpretation of visitor data, and wonder how they can better use this information. 
+
 ### collect exhibit thoughts and feedback from representative groups of visitors (difficult, existing)
 
 Bob is a WCMA staff member who ocassionally works the front desk, and other times works in exhibits. He learns a lot about WCMA exhibits through interactions with visitors, and people who stop to give him feedback. Unfortunately, when talking with a curator about the new gel-and-contacts installation, Bob realizes that the only people who really stop to talk with him are either kids or older visitors. Young adults rarely stop to talk, even if they seem frustrated or unimpressed with the museum. Bob also realizes that he receives mostly positive feedback. However, from his time in the galleries, he can tell that not everyone is happy with their museum experience. He isn't sure why some people enjoy the museum or exhibits that others don't, but frustated visitors tend to not engage with his questions, and sometimes take their irritation out on him. Bob gets the sense that people who are frustrated prefer not to talk about it, and wonders if they are frustrated because of the exhibit content, a lack of understanding, or something else entirely. Bob wishes there were a better way to get honest feedback from everyone.
 
 
 ### assign collected visitor data to specific artwork in database (medium-difficult, new)
+Needs finishing.
 
-Lili is a student intern who works for WCMA. She started working during the summer WALLS exhibit, and one of her tasks was to transcribe handwritten visitor data. WALLS involved having users journal about pieces of artwork, so she spent several hours a day typing these responses into a computer. The responses are organized by artwork. While some of these responses are displayed on the WALLS [website](https://wcma.williams.edu/walls/), this information is also not easily accessible through the museum database. Lili spends the next several days adding journal responses to the database. She then realizes that there is no good way to search through journal data, so she asks her supervisor about tagging responses by themes. Lili and her supervisor realize that this is only one person's interpretation of visitor data, and wonder how they can better organize information. 
-
+### search database to curate exhibits (easy, existing)
+Needs finishing.
 
 ### summarize and communicate visitor feedback to curators - easy, existing
 
