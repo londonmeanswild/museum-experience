@@ -1,3 +1,4 @@
+---
 title: project ideation
 categories:
   - design
