@@ -31,7 +31,10 @@ Design two combines tasks [3, 4, 5, 6](https://londonmeanswild.github.io/museum-
 general idea:
 Assuming we have all the data we need, the task becomes creating an application that will summarize and present data, allowing curators to search it. Our application’s interface would show how many people looked at a certain piece, how many people commented on it, the exhibit it's currently in (or was last in), and the history of the piece. Grouping information by exhibit makes it easy for curators to know which exhibits - and pieces - provoke certain responses. 
 
-3: combine tasks 2, 3, 4, 5 
+Design three combines tasks [2, 3, 4, 5](https://londonmeanswild.github.io/museum-experience/teamwork/ideas/2018/10/12/task-review/)
+
+![design three, image one](/museum-experience/images/ideation/task3-1.jpg)
+![design three, image two](/museum-experience/images/ideation/task3-2.jpg)
 
 
 general idea: 
