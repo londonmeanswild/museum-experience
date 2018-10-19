@@ -11,7 +11,7 @@ show_comments: true
 All of our designs implement three new tasks, and combine existing tasks to do so. Our three new tasks are
 *  Allow visitors to give feedback on art
 *  Curators use visitor responses to curate new exhibits
-*  
+*  Curators can "test" exhibits
 
 Design one combines tasks [2, 3, 5, 6](https://londonmeanswild.github.io/museum-experience/teamwork/ideas/2018/10/12/task-review/).
 
