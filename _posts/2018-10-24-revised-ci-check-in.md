@@ -1,6 +1,6 @@
 ---
 name: heART
-subtitle: revised contextual inquiry review
+subtitle: revised contextual inquiry check-in
 image_path: /images/clients/blank.png
 ---
 #### Summary of Key Findings
