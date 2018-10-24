@@ -1,5 +1,5 @@
 ---
-title: revised contextual inquiry
+title: revised contextual inquiry plan
 categories:
   - groundwork
   - research
