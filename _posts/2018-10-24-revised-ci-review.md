@@ -1,10 +1,12 @@
 ---
 name: heART
-subtitle: contextual inquiry review
+subtitle: revised contextual inquiry review
 image_path: /images/clients/blank.png
 ---
 #### Summary of Key Findings
-Our inquiries analyzed WCMA curators and two Williams students, one who was a summer intern at WCMA and another who is an art enthusiast (we have another CI scheduled at a later date, but this will focus on the people we have interviewed). From these inquiries, we developed a better understanding of both visitor and curator desires for the museum. In particular, the Williams students seemed to want a deeper experience where they can work to understand the art, and possibly even discuss it with others. Curators, on the other hand, want to get better and more direct feedback from the visitors. This is especially useful if they can get a sense of what frustrates people, and which galleries people are most interested in. Even though these goals have some overlap, we have to be careful that we don't spread our design too thin. We have ideas to improve the experience of either of our current users, but we are still trying to figure out how these can come together into a coherent design (although we may have to decide to focus on one group of users OR the other).
+Our inquiries analyzed WCMA curators and two Williams students, one who was a summer intern at WCMA and another who is an art enthusiast (we have another CI scheduled at a later date, but this will focus on the people we have interviewed). From these inquiries, we developed a better understanding of both visitor and curator desires for the museum. In particular, the Williams students seemed to want a deeper experience where they can work to understand the art, and possibly even discuss it with others. Curators, on the other hand, want to get better and more direct feedback from the visitors. This is especially useful if they can get a sense of what frustrates people, and which galleries people are most interested in. **We asked students what they thought of a low-tech data collection solution, and they liked the idea of post-it walls between exhibits. When asked for their thoughts on solutions for more engaging exhibits, students had varying thoughts on what made a good exhibit. One didn't like the arrangement of art, while the other student enjoyed having to engage with art and question. The curators didn't want a way to track emotion, since it is so subjective. Instead, they want some way to hear what is frustrating or interesting to visitors.** 
+
+**Since later feedback advised us to assume data was collected already, we are focusing on ways to use it.** 
 
 #### participants
 The full writeup for each encounter can be found [here](https://londonmeanswild.github.io/museum-experience/groundwork/research/2018/10/04/CI-writeups/). 
@@ -61,7 +63,7 @@ We have an additional inquiry lined up with an Art History professor who special
 9. How often are the tasks performed?
 ⋅⋅⋅ Curators are designing new exhibits about 2-3 times a year, it depends on the scope of the project.
 10. What are the time constraints on the tasks?
-⋅⋅⋅ WCMA is small, and exhibits must change in order to keep new visitors coming. Chad said that WCMA curators have a quick exhibit turnover and spend around 4 months (if Landon's memory serves us correctly) curating an exhibit. Once the exhibit is curated, installed, and live, then it's on to a new project. 
+⋅⋅⋅ WCMA is small, and exhibits must change in order to keep new visitors coming. Chad said that WCMA curators have a quick exhibit turnover and spend around 4 months (if Landon's memory serves us correctly) curating an exhibit. Once the exhibit is curated, installed, and live, then it's on to a new project. **We are focusing on real-time reporting of data to curators, with features that allow curators to examine feedback over different timespans.** 
 11. What happens when things go wrong?
 ⋅⋅⋅ Museum visitors leave exhibits feeling frustrated, confused, and disengaged. However, "most of the feedback U2 receives is positive, which made him worry that people who are confused or frustrated aren’t expressing this information to him." 
 
