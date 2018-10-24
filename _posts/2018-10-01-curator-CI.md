@@ -1,6 +1,6 @@
 ---
 type: post
-title: curator contextual inquiry
+title: contextual inquiry check-in
 categories:
   - research
 author_staff_member: chris
