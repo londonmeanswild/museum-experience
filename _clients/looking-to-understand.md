@@ -4,8 +4,7 @@ subtitle: looking to understand
 image_path: /images/clients/blank.png
 ---
 
-## Title here
-
+## connecting curators to what really matters
 ## heART team:
 * chris anton: coordinating mastermind
 * kenneth an: artistic talent 
