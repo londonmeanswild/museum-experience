@@ -53,7 +53,7 @@ All of our designs implement three new tasks, and combine existing tasks to do s
 *  Curators use visitor responses to curate new exhibits
 *  Curators can "test" exhibits
 
-Design one combines tasks [2, 3, 5, 6](https://londonmeanswild.github.io/museum-experience/teamwork/ideas/2018/10/12/task-review/).
+Design 1: "Organization and Communication" --> Design one combines tasks [2, 3, 5, 6](https://londonmeanswild.github.io/museum-experience/teamwork/ideas/2018/10/12/task-review/). 
 
 ![design one, image one](/museum-experience/images/ideation/design-1-1.png)
 ![design one, image two](/museum-experience/images/ideation/design-1-2.png)
@@ -62,7 +62,8 @@ Design one combines tasks [2, 3, 5, 6](https://londonmeanswild.github.io/museum-
 general idea:
 We see a mobile interface - either through an app or device - as a way to collect feedback from visitors (task 2). This feedback will be saved to the database for each specific piece they comment on (task 3). Some computer algorithm would search for certain keywords in each of the comments. It would then categorize these comments based on positive/negative feedback, whether or not the feedback is a question, etc. (task 5). This information could then we relayed to curators, supporting a more direct information stream between visitor and curator (task 6).
 
-Design two combines tasks [3, 4, 5, 6](https://londonmeanswild.github.io/museum-experience/teamwork/ideas/2018/10/12/task-review/)
+
+Design 2: "Presentation and Interaction" --> Design two combines tasks [3, 4, 5, 6](https://londonmeanswild.github.io/museum-experience/teamwork/ideas/2018/10/12/task-review/)
 
 ![design two, image one](/museum-experience/images/ideation/design-2-1.png)
 ![design two, image two](/museum-experience/images/ideation/design-2-2.png)
@@ -72,7 +73,7 @@ Design two combines tasks [3, 4, 5, 6](https://londonmeanswild.github.io/museum-
 general idea:
 Assuming we have all the data we need, the task becomes creating an application that will summarize and present data (task 5), allowing curators to search it (task 4). Our application’s interface would show how many people looked at a certain piece, how many people commented on it, the exhibit it's currently in (or was last in), and the history of the piece. Grouping information by exhibit makes it easy for curators to know which exhibits - and pieces - provoke certain responses (task 3). Through an interactive wall panel, we may also be able to engage visitors with this data as well, and possibly giving them a more direct connection with curators (task 6). Even though we will have to make sure we don't spread our design too thin, we may be able to create a project that appeals to multiple groups of users (i.e. both curators and visitors) by repurposing data and designs.
 
-Design three combines tasks [2, 3, 4, 5](https://londonmeanswild.github.io/museum-experience/teamwork/ideas/2018/10/12/task-review/)
+Design 3: "Testing Exhibits" --> Design three combines tasks [2, 3, 4, 5](https://londonmeanswild.github.io/museum-experience/teamwork/ideas/2018/10/12/task-review/)
 
 ![design three, image one](/museum-experience/images/ideation/task3-1.jpg)
 ![design three, image two](/museum-experience/images/ideation/task3-2.jpg)
