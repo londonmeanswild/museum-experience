@@ -7,7 +7,7 @@ image_path: /images/clients/blank.png
 ## Title here
 
 ### team:
-* chris anton: coordinating mastermind
+* chris anton: coordinating mastermind and competent adult
 * kenneth an: artistic talent 
 * landon marchant: random ideas generator 
 
