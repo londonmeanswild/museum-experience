@@ -11,17 +11,17 @@ image_path: /images/clients/blank.png
 * kenneth an: artistic talent 
 * landon marchant: random ideas generator 
 
-#### problem and solution overview ####
+### problem and solution overview
 
 Curators not only have limited feedback on visitor emotions, but even if they had a surplus of information, there would be no time in a curator's busy schedule to sort through it. There's currently no good way for a curator to know whether exhibits (and specific pieces of art) cause confusion or spark inspiration in the visitors who experience them. Furthermore, curators have noticed that, due to their busy schedules, there's a lack of connection between themselves and the museum visitors. 
 
 Since there are multiple other groups focusing on data collection, we decided to pivot our project and assume that we have all the necessary data for this project (i.e. feedback about exhibits and artwork from museum visitors). Our vision is to create an application that will organize and present user data, and effectively communicate this information to curators (with little effort on their part). We want to allow curators to understand the experiences of visitors without sacrificing large amounts of time to personally connect with them. Furthermore, we want to repurpose some of those data visualizations. We think it would be cool to have an interactive wall panel of anonymized data for visitors to play with, increasing audience engagement and possibly giving a means for visitors to communicate more directly with curators (e.g. there could be an "ask the experts" field where visitors can post questions for curators to answer). Our focus has changed over time, but our original project proposal can be found [here](https://londonmeanswild.github.io/museum-experience/clients/revised-project-proposal/).
 
-#### design research goals, stakeholders, and participants
+### design research goals, stakeholders, and participants
 
 We used a blend of contexual inquiries and interviews to understand our participants, and all engagements were conducted at WCMA. We focused on three primary groups (general descriptions of those groups and their backgrounds can be found [here](https://londonmeanswild.github.io/museum-experience/groundwork/research/2018/10/24/revised-contextual-inquiry/)), but conducted 4 interviews. U1 and U2 were both WCMA curators and the interviews were done in their respective offices. Moreover, U3 and U4 were both Williams students, but U3 was an art enthusiast while U4 was a past summer intern at WCMA. It's also interesting to note that U3 wanted to start in a side gallery before going to the Object Lab, while U4 went directly to the Object Lab. The full writeup for each encounter can be found [here](https://londonmeanswild.github.io/museum-experience/groundwork/research/2018/10/04/CI-writeups/). We tried to do contextual inqueries of our participants when we could; however, this was not always an option (mostly due to time restrictions). We felt that contextual inqueries gave us the most insightful feedback since this gave us a better understanding of their perspectives, but interviews with probing questions also gave us some very useful information to work with. Regardless, from these interviews, we developed a better understanding of both visitor and curator desires for the museum. In particular, the Williams students seemed to want a deeper experience where they can work to understand the art, and possibly even discuss it with others. Curators, on the other hand, want to get better and more direct feedback from the visitors. This is especially useful if they can get a sense of what frustrates people, and which galleries people are most interested in. 
 
-#### design research and themes
+### design research and themes
 
 Our high level themes are now feedback and engagement. Visitors expressed a desire to understand, relate to, and engage with exhibits, but without having answers handed to them. Meanwhile, curators wanted to create exhibits for people to critically engage with, wanted immediate feedback on exhibits, and wanted to give context. 
 
@@ -31,12 +31,12 @@ We are assuming that the data we need has already been collected. This allows us
 
 We also want to further explore the idea of immediate feedback via text, whether texts are sent to a curator or AI. This system could use a piece, exhibit, or theme-specific key word so that responses were sent to the right individual or team. This is inspired by the curator's comment that "he wished he could get visitor questions directly sent to his phone so he could answer them (given he had the time), that way it might eliminate some frustration." 
 
-#### task analysis 
+### task analysis 
 
 We intend the majority of this design to be used by curators. We plan on repurposing some of the work in order to engage with museum visitors. Our tasks allow curators to view and respond to feedback from visitors based on date/time, theme, or exhibit in question. They also will allow visitors to engage with select portions of this data in an interactive exhibit, modeled after the data visualizations curators have access to. Hopefully, our tasks will help curators develop exhibits based on understanding visitor experiences, and increase visitor willingness to give feedback. The ability to perform curation tasks is  developed through formal education, personal style development, and mentorship, and assisted by the presence of interns, professional peers, and the museum database. Our design will allow curators to deepen their skills and work more effectively as they go through the WCMA archives. Curators need access to precise, yet diverse, data. They need visitor experience, quantified. Right now they have a gap in data because many people who don't take the WCMA experience surveys or exit interviews. We are assuming this data has been provided -- it is now our responsibility to help make sense of it. Curators are currently designing new exhibits 2-3 times a year, so we are focusing on the real-time reporting of data to curators, with features that allow them to examine feedback over different timespans. If things go wrong, curators will be making decisions based on faulty information since our design is focused on data organization and visualization. 
 
-#### design sketches 
-##### **Task Recap:** #####
+### design sketches 
+#### **Task Recap:** ####
 **1. collect pre-existing data from WALLS journals**
 
 **2. collect exhibit thoughts and feedback from representative groups of visitors**
@@ -49,7 +49,7 @@ We intend the majority of this design to be used by curators. We plan on repurpo
 
 **6. establish a direct connection between curators and visitors (i.e. where visitors can ask clarifying questions)**
 
-##### Designs: #####
+#### Designs: ####
 
 All of our designs implement three new tasks, and combine existing tasks to do so. Our three new tasks are
 *  Allow visitors to give feedback on art
@@ -84,11 +84,11 @@ Design three combines tasks [2, 3, 4, 5](https://londonmeanswild.github.io/museu
 general idea: 
 Allow curators to virtually test exhibits. Instead of having exhibits where visitors provide feedback, curators will create a virtual temporary exhibit that visitors can explore on the app. Similarly to how the museum has promotions for temporary exhibits, they can do something to try to promote the exploration of these virtual exhibits. Even though it might be difficult to get a representative sample of visitors, this will allow much faster feedback (task 2). Additionally, since the feedback will already be submitted electronically, summarizing it will be a lot easier (can do the same thing where you tag certain keywords in the feedback — task 5), and the data will already be assigned to each piece of artwork (task 3). Finally, this will make it easier for curators to curate exhibits (task 4) since they can test things more easily and see how they work. This is mostly based on our data that curators have to go through a lot of trouble with temporary exhibits, mostly with intent of collecting feedback. With this virtual exhibit, it will be much easier and cost effective to try out newer and more esoteric pieces.
 
-#### written scenario 
+### written scenario 
  (1 paragraph) Convert your two tasks into written scenarios for your design. Scenarios include the steps a person will go through to accomplish the task, including references to your design. Scenarios do not need to detail every little step, but should be realistic, should be dependent upon the design you have chosen, should appropriately reference elements of your design, and should communicate how a person will accomplish the task using your design. Include images in the body of the write-up with appropriate figure numbers and captions and refer to the figures in the body of your text
 
 
-#### storyboards of selected design
+### storyboards of selected design
 Include updated storyboards of your design. Reference these appropriately in your scenarios. Include images in the body of the write-up with appropriate figure numbers and captions and refer to the figures in the body of your text
 
 
