@@ -11,7 +11,7 @@ image_path: /images/clients/blank.png
 * kenneth an: artistic talent 
 * landon marchant: random ideas generator 
 
-####problem and solution overview
+#### problem and solution overview
 
 Curators have no way to know if visitors are frustrated or confused by exhibits, or if these exhibits started interesting conversations. They are afraid that visitors are leaving WCMA without having their questions answered. Furthermore, curators don't know how people react to exhibits or pieces of artwork. We have decided to try and use the responses people have to artwork in order to add depth to museum data. We want to show the "texture and personality" of a collection, and the responses people have to exhibits. We are operating on the assumption that we have all the necessary data for this project. **This assumption allows us to first help curators understand and improve visitor interactions with the museum. Secondly, we can visualize the data in ways that allow visitors to view and engage with it as well. POTENTIALLY DELETE**
 Our vision is to create an application that will organize and present user data. We want to allow curators to understand the experiences of visitors. Furthermore, we want to repurpose some of those data visualizations. We think it would be cool to have interactive wall panels of anonymized data for visitors to play with.
