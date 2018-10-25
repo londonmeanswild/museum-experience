@@ -3,6 +3,7 @@ name: heART
 subtitle:revised project proposal
 image_path: /images/clients/blank.png
 ---
+Revisions are **in bold** for this page. 
 
 #### The Problem
 
