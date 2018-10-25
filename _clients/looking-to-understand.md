@@ -1,3 +1,4 @@
+---
 name: heART
 subtitle: looking to understand
 image_path: /images/clients/blank.png
