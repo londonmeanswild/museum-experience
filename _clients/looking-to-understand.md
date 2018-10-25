@@ -9,6 +9,7 @@ image_path: /images/clients/blank.png
 * chris anton: coordinating mastermind
 * kenneth an: artistic talent 
 * landon marchant: random ideas generator 
+* malibu: consultant and critic
 
 ## problem and solution overview
 
@@ -53,7 +54,7 @@ All of our designs implement three new tasks, and combine existing tasks to do s
 *  Curators use visitor responses to curate new exhibits
 *  Curators can "test" exhibits
 
-**Design 1:** "Organization and Communication" --> Design one combines tasks [2, 3, 5, 6](https://londonmeanswild.github.io/museum-experience/teamwork/ideas/2018/10/12/task-review/). 
+**design 1:** "Organization and Communication" --> Design one combines tasks [2, 3, 5, 6](https://londonmeanswild.github.io/museum-experience/teamwork/ideas/2018/10/12/task-review/). 
 
 ![design one, image one](/museum-experience/images/ideation/design-1-1.png)
 ![design one, image two](/museum-experience/images/ideation/design-1-2.png)
@@ -63,7 +64,7 @@ general idea:
 We see a mobile interface - either through an app or device - as a way to collect feedback from visitors (task 2). This feedback will be saved to the database for each specific piece they comment on (task 3). Some computer algorithm would search for certain keywords in each of the comments. It would then categorize these comments based on positive/negative feedback, whether or not the feedback is a question, etc. (task 5). This information could then we relayed to curators, supporting a more direct information stream between visitor and curator (task 6).
 
 
-**Design 2:** "Presentation and Interaction" --> Design two combines tasks [3, 4, 5, 6](https://londonmeanswild.github.io/museum-experience/teamwork/ideas/2018/10/12/task-review/)
+**design 2:** "Presentation and Interaction" --> Design two combines tasks [3, 4, 5, 6](https://londonmeanswild.github.io/museum-experience/teamwork/ideas/2018/10/12/task-review/)
 
 ![design two, image one](/museum-experience/images/ideation/design-2-1.png)
 ![design two, image two](/museum-experience/images/ideation/design-2-2.png)
@@ -73,7 +74,7 @@ We see a mobile interface - either through an app or device - as a way to collec
 general idea:
 Assuming we have all the data we need, the task becomes creating an application that will summarize and present data (task 5), allowing curators to search it (task 4). Our application’s interface would show how many people looked at a certain piece, how many people commented on it, the exhibit it's currently in (or was last in), and the history of the piece. Grouping information by exhibit makes it easy for curators to know which exhibits - and pieces - provoke certain responses (task 3). Through an interactive wall panel, we may also be able to engage visitors with this data as well, and possibly giving them a more direct connection with curators (task 6). Even though we will have to make sure we don't spread our design too thin, we may be able to create a project that appeals to multiple groups of users (i.e. both curators and visitors) by repurposing data and designs.
 
-**Design 3:** "Testing Exhibits" --> Design three combines tasks [2, 3, 4, 5](https://londonmeanswild.github.io/museum-experience/teamwork/ideas/2018/10/12/task-review/)
+**design 3:** "Testing Exhibits" --> Design three combines tasks [2, 3, 4, 5](https://londonmeanswild.github.io/museum-experience/teamwork/ideas/2018/10/12/task-review/)
 
 ![design three, image one](/museum-experience/images/ideation/task3-1.jpg)
 ![design three, image two](/museum-experience/images/ideation/task3-2.jpg)
@@ -82,7 +83,7 @@ Assuming we have all the data we need, the task becomes creating an application 
 general idea: 
 Allow curators to virtually test exhibits. Instead of having exhibits where visitors provide feedback, curators will create a virtual temporary exhibit that visitors can explore on the app. Similarly to how the museum has promotions for temporary exhibits, they can do something to try to promote the exploration of these virtual exhibits. Even though it might be difficult to get a representative sample of visitors, this will allow much faster feedback (task 2). Additionally, since the feedback will already be submitted electronically, summarizing it will be a lot easier (can do the same thing where you tag certain keywords in the feedback — task 5), and the data will already be assigned to each piece of artwork (task 3). Finally, this will make it easier for curators to curate exhibits (task 4) since they can test things more easily and see how they work. This is mostly based on our data that curators have to go through a lot of trouble with temporary exhibits, mostly with intent of collecting feedback. With this virtual exhibit, it will be much easier and cost effective to try out newer and more esoteric pieces.
 
-#### Choosing Design 2:
+#### choosing design 2:
 
 We decided to pursue our second design (creating an application that summarizes and presents data) with a focus on tasks #3 (assigning data to specific pieces of art) and #5 (efficiently summarizing and communicating visitor feedback). First, based on Glow feedback, there appears to be multiple other groups that are focused on data collection. Since our second design assumes we have all of the data we need, it will probably be more fun and rewarding to work on something that is different from the other groups. Moreover, this is the design that most directly completes our goal of assisting curators, while also giving us room to expand our intended user base. After our contextual inquiries, we had decided that it was too difficult to try to make an app that pleased everyone. Instead, we wanted to focus on assisting curators. Even though all of our designs portray curators as the primary users, only design 2 emphasizes the aspect of improving communication of data, rather than the further collection of data. Currently, since curators already have large amounts of information, it makes more sense that the organization of this information would be the most efficient way of helping them. Since it is evident that data organization is our focus, it follows that task 5 would be one of the most crucial pieces of our process. Furthermore, our decision to focus on task 3 stems from the feedback we received in the Design Check-In. In particular, it was recommended that we not only communicate data to curators, but also “the general public to get people initially engaged with the content.” Since we decided to pursue data organization, it follows that task 3 would be the most appropriate for our design. In particular, assigning visitor feedback to specific pieces of artwork (task 3) will assist us in completing task 5 (organization), while also giving us the flexibility to provide audience engagement. For example, if visitor feedback is specified to a certain piece of art, this could promote discussion if visitors are allowed to respond to each other via the interface (increasing audience engagement). Additionally, task 6 would have been the only other task that was even remotely related to audience engagement (everything else focuses on data collection and searching). However, since task 6 wouldn’t directly utilize our data organization improvements from task 5, this would make it harder for our project to focus on both of the previously mentioned tasks. If anything, task 6 would be a possible extension for our design if we had extra time to complete it.
 
