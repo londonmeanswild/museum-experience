@@ -11,7 +11,7 @@ image_path: /images/clients/blank.png
 * kenneth an: artistic talent 
 * landon marchant: random ideas generator 
 
-#### problem and solution overview
+#### problem and solution overview ####
 
 Curators not only have limited feedback on visitor emotions, but even if they had a surplus of information, there would be no time in a curator's busy schedule to sort through it. There's currently no good way for a curator to know whether exhibits (and specific pieces of art) cause confusion or spark inspiration in the visitors who experience them. Furthermore, curators have noticed that, due to their busy schedules, there's a lack of connection between themselves and the museum visitors. 
 
