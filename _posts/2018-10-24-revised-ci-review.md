@@ -3,6 +3,8 @@ name: heART
 subtitle: revised contextual inquiry review
 image_path: /images/clients/blank.png
 ---
+Revisions are **in bold** for this page. 
+
 #### Summary of Key Findings
 Our inquiries analyzed WCMA curators and two Williams students, one who was a summer intern at WCMA and another who is an art enthusiast (we have another CI scheduled at a later date, but this will focus on the people we have interviewed). From these inquiries, we developed a better understanding of both visitor and curator desires for the museum. In particular, the Williams students seemed to want a deeper experience where they can work to understand the art, and possibly even discuss it with others. Curators, on the other hand, want to get better and more direct feedback from the visitors. This is especially useful if they can get a sense of what frustrates people, and which galleries people are most interested in. **We asked students what they thought of a low-tech data collection solution, and they liked the idea of post-it walls between exhibits. When asked for their thoughts on solutions for more engaging exhibits, students had varying thoughts on what made a good exhibit. One didn't like the arrangement of art, while the other student enjoyed having to engage with art and question. The curators didn't want a way to track emotion, since it is so subjective. Instead, they want some way to hear what is frustrating or interesting to visitors.** 
 
