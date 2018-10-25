@@ -6,7 +6,7 @@ image_path: /images/clients/blank.png
 
 ## Title here
 
-## team:
+## heART team:
 * chris anton: coordinating mastermind
 * kenneth an: artistic talent 
 * landon marchant: random ideas generator 
@@ -34,7 +34,7 @@ Over the period since we first analyzed our themes, we noticed that data communi
 We intend the majority of this design to be used by curators, but we plan on repurposing some of the work in order to engage with museum visitors (recent decision). The goal of our design is to both organize data/feedback in a concise way (mostly through completing task 3) and then effectively communicate that information to curators (task 5). Our original list of tasks can be found [here](https://londonmeanswild.github.io/museum-experience/teamwork/ideas/2018/10/12/task-review/). However, we also recently decided that encouraging audience engagement should be another task we want to pursue. Our tasks allow curators to view and respond to feedback from visitors based on date/time, theme, or exhibit in question. They also will allow visitors to engage with select portions of this data in an interactive exhibit, modeled after the data visualizations curators have access to. Hopefully, our tasks will help curators develop exhibits based on understanding visitor experiences, and increase visitor willingness to give feedback. The ability to perform curation tasks is developed through formal education, personal style development, and mentorship, and assisted by the presence of interns, professional peers, and the museum database. Our design will allow curators to deepen their skills and work more effectively as they go through the WCMA archives. Curators need access to precise, yet diverse, data. They need visitor experience, quantified. Right now they have a gap in data because many people don't take the WCMA experience surveys or exit interviews. We are assuming this data has been provided -- it is now our responsibility to help make sense of it. Curators are currently designing new exhibits 2-3 times a year, so we are focusing on the real-time reporting of data to curators, with features that allow them to examine feedback over different timespans. If things go wrong, curators will be making decisions based on faulty information since our design is focused on data organization and visualization. Our original task analysis can be found [here](https://londonmeanswild.github.io/museum-experience/2018/10/24/revised-ci-review/). 
 
 ## design sketches 
-#### **Task Recap:** ####
+#### **task recap:** ####
 **1. collect pre-existing data from WALLS journals**
 
 **2. collect exhibit thoughts and feedback from representative groups of visitors**
@@ -47,7 +47,7 @@ We intend the majority of this design to be used by curators, but we plan on rep
 
 **6. establish a direct connection between curators and visitors (i.e. where visitors can ask clarifying questions)**
 
-#### Designs: ####
+#### designs: ####
 
 All of our designs implement three new tasks, and combine existing tasks to do so. Our three new tasks are
 *  Allow visitors to give feedback on art
@@ -87,10 +87,19 @@ Allow curators to virtually test exhibits. Instead of having exhibits where visi
 We decided to pursue our second design (creating an application that summarizes and presents data) with a focus on tasks #3 (assigning data to specific pieces of art) and #5 (efficiently summarizing and communicating visitor feedback). First, based on Glow feedback, there appears to be multiple other groups that are focused on data collection. Since our second design assumes we have all of the data we need, it will probably be more fun and rewarding to work on something that is different from the other groups. Moreover, this is the design that most directly completes our goal of assisting curators, while also giving us room to expand our intended user base. After our contextual inquiries, we had decided that it was too difficult to try to make an app that pleased everyone. Instead, we wanted to focus on assisting curators. Even though all of our designs portray curators as the primary users, only design 2 emphasizes the aspect of improving communication of data, rather than the further collection of data. Currently, since curators already have large amounts of information, it makes more sense that the organization of this information would be the most efficient way of helping them. Since it is evident that data organization is our focus, it follows that task 5 would be one of the most crucial pieces of our process. Furthermore, our decision to focus on task 3 stems from the feedback we received in the Design Check-In. In particular, it was recommended that we not only communicate data to curators, but also “the general public to get people initially engaged with the content.” Since we decided to pursue data organization, it follows that task 3 would be the most appropriate for our design. In particular, assigning visitor feedback to specific pieces of artwork (task 3) will assist us in completing task 5 (organization), while also giving us the flexibility to provide audience engagement. For example, if visitor feedback is specified to a certain piece of art, this could promote discussion if visitors are allowed to respond to each other via the interface (increasing audience engagement). Additionally, task 6 would have been the only other task that was even remotely related to audience engagement (everything else focuses on data collection and searching). However, since task 6 wouldn’t directly utilize our data organization improvements from task 5, this would make it harder for our project to focus on both of the previously mentioned tasks. If anything, task 6 would be a possible extension for our design if we had extra time to complete it.
 
 ## written scenario 
- (1 paragraph) Convert your two tasks into written scenarios for your design. Scenarios include the steps a person will go through to accomplish the task, including references to your design. Scenarios do not need to detail every little step, but should be realistic, should be dependent upon the design you have chosen, should appropriately reference elements of your design, and should communicate how a person will accomplish the task using your design. Include images in the body of the write-up with appropriate figure numbers and captions and refer to the figures in the body of your text
+
+References to storyboards are in the sequence (Storyboard #, Frame #)
+
+Bob and Alice are visiting WCMA while waiting for their friends. While talking about the meaning of a piece of art (S1, F1), Bob sees an iPad and QR code next to the installation. Ari explains that the art database heART has teamed up with WCMA to help visualize the responses people have to artwork (S1, F2). Bob plays with the iPad and sees there is an interactive visualization component that shows what people thought of the displays (S1, F3, 4). He decides to scan the QR code and leave a response so that his opinions about the artwork could be added to the cool color bubbles (S1, F5-9). Alice races to beat Bob to the next QR code (S1, F10). 
+
+Daniel sees people visiting the WCMA Human Beings exhibit. He wonders how people are responding to it, and decides to check his heART app (S2, F1, 2). After logging in, he's brought to a home screen that lets him sort visitor feedback based on moods, keyword, populatiry, dates and times, and more (S2, F3). Daniel is able to view visitor feedback in a variety of different ways, all of which update in real time. One of them is an artistic, abstract, visualization, identical to the one visitors can play with near the WCMA entrance (S2, F7). The others are more traditional graphs and text (S2, F8-11).
 
 
 ## storyboards of selected design
-Include updated storyboards of your design. Reference these appropriately in your scenarios. Include images in the body of the write-up with appropriate figure numbers and captions and refer to the figures in the body of your text
 
+We included data collection in our storyboards in order to help readers understand how our design would function. Our design focuses on the organization and presentation of data, not the collection. Given that, the most important frame from Storyboard 1 is Frame 4, and the most important frames from Storyboard 2 are Frames 7-11. These make no sense if presented without an explanation of the data we are using, however, which that has influenced the design of our storyboards. 
+
+
+![task 3, image 1](/museum-experience/images/ideation/hci2-1.png)
+![task 5, image 1](/museum-experience/images/ideation/hci3-1.png)
 
