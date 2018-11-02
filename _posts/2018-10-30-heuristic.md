@@ -55,8 +55,8 @@ This is our modified ignore/answer questions screen:
 ## paper heuristic eval
 
 We only got two evaluations done for some reason, but both are included below. Same issues with auto-rotate. 
-First evaluation: Chris was the computer, Kenneth took notes, and Landon tested another group's product. 
-Second: Kenneth tested another group's design, Landon was the computer, and Chris took notes.  
+First evaluation: Chris was the computer, Kenneth took notes, and Landon tested MUSE's product. Dana from MUSE was the evaluator. 
+Second: Kenneth tested MUSE's design, Landon was the computer, and Chris took notes. Jamie from MUSE was the evaluator. 
 
 ![he1](/museum-experience/images/prototyping/heuristic-1.JPG)
 ![he2](/museum-experience/images/prototyping/heuristic-2.JPG)
