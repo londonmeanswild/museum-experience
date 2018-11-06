@@ -23,7 +23,7 @@ Our cognitive walk-through proved to be relatively unexciting because our hueris
 |                                   |             Severity                      |                                                           | 
 
 
-### first usability test
+### revisions
 
 |       Incident Description        | Severity (if negative) |      Image and Explanation of Revision |         
 |:---------------------------------:|:----------------------:|:--------------------------------------:|
