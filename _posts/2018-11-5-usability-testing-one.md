@@ -3,8 +3,6 @@ type:  post
 title:  usability testing check-in
 ---
 
-We conducted a cognitive walk-through as a team, and the changes we made were in relation to tasks performed. We decided to be more specific about the tasks we presented to people in order to help them navigate the paper prototype. 
-
 ### first usability test
 
 Our first usability test was with a student. UT1 is an econ major who has only been to WCMA once, but asks a lot of questions about the way things work. UT1 is a good friend of Malibu's so she didn't attend this test. We met at Lee's because UT1 was finishing up dinner and had a short window of time in which to do the test. Each team member introduced themselves, and explained their roles. Landon introduced the project and took notes while Chris was the computer and performed the majority of in-test communication. Kenneth was going to take notes but had to leave unexpectedly. UT1 knows one of our classmates, so we found out mid-introduction that they had already heard about the project and assignment. Landon introduced the project as an application that will allow WCMA curators to interact with visitor feedback and exhibit data.  
@@ -13,14 +11,13 @@ We found this exercise to be most helpful as a design review rather than a testi
 
 
 #### cognitive walk-through results
-Our cognitive walk-through proved to be relatively unexciting because our hueristic evaluators were quite attentive to issues. A lot of their feedback fixed problems that otherwise would have come up in the walkthrough. We also may be too close to the project, because we weren't able to come up with issues as we walked through the app. It may have been useful to do a cognitive walkthrough with an outside perspective. 
+Our cognitive walk-through proved to be relatively unexciting because our hueristic evaluators were quite attentive to issues. A lot of their feedback fixed problems that otherwise would have come up in the walkthrough. We also may be too close to the project, because we weren't able to come up with issues as we walked through the app. It may have been useful to do a cognitive walkthrough with an outside perspective. AFter our cognitive walkthrough, we decided to be more specific about the tasks we presented to people in order to help them navigate the paper prototype. 
 
-|       Identified Issue            |             Severity                      |       Image and  Revision   |
+|       Identified Issue            |             Severity                      |       Image and Revision    |
 |:---------------------------------:|:-----------------------------------------:|:---------------------------:|
 |                                   |             Severity                      |                                                           |
 |                                   |             Severity                      |                                                           |    
-|                                   |             Severity                      |                                                           |                                                
-|                                   |                                           |                                                           |
+|                                   |             Severity                      |                                                           | 
 
 
 #### first usability test
@@ -31,9 +28,13 @@ Our cognitive walk-through proved to be relatively unexciting because our hueris
 |   Add "reply" button to questions and suggestions in "all feedback"     |   3       |   Add "reply" button to questions or suggestions that come up under "all feedback." This takes users to the communication screens. |    
 |   Swipe through data viz on EXHIBIT [  ] screen     |      1                  |  Add left and right arrow to indicate swiping ability.  |    
 
+#### plans
+Chris is trying to schedule at least one usability test with a curator, so we can get a better idea of what they want and need. We also intend on asking what kind of data they would like access to in the visualizations. Our goals are to identify design and process flaws, learn what curators would want out of our product, and discover  any use paths that we didn't identify or predict. Each team member needs practice at being the computer, performing introductions, and taking notes, so we will rotate based on availability. 
+
 ### images
 
 *Submit detailed images of your current paper prototype, as revised in this process. Include both:
 An overview image that shows your entire paper prototype.
 Detailed images showing each component as you walk through your two primary tasks.*
+
 
