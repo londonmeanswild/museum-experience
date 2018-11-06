@@ -15,8 +15,8 @@ We found this exercise to be most helpful as a design review rather than a testi
 #### cognitive walk-through results
 Our cognitive walk-through proved to be relatively unexciting because our hueristic evaluators were quite attentive to issues. A lot of their feedback fixed problems that otherwise would have come up in the walkthrough. We also may be too close to the project, because we weren't able to come up with issues as we walked through the app. It may have been useful to do a cognitive walkthrough with an outside perspective. 
 
-|       Identified Issue            |             Severity                      |       Image (if applicable) and Explanation of Revision   |              
-|:---------------------------------:|:-----------------------------------------:|:---------------------------------------------------------:|:
+|       Identified Issue            |             Severity                      |       Image and  Revision   | 
+|:---------------------------------:|:-----------------------------------------:|:---------------------------:|:
 |                                   |             Severity                      |                                                           |
 |                                   |             Severity                      |                                                           |    
 |                                   |             Severity                      |                                                           |                                                
@@ -25,9 +25,9 @@ Our cognitive walk-through proved to be relatively unexciting because our hueris
 
 #### first usability test
 
-|       Incident Descirption        | Severity (if negative) |      Image and Explanation of Revision |              
-|:---------------------------------:|:----------------------:|:---------------------------------------------------------:|:
-|   Confusion about sort/narrow     |            2            |       See image (number).  Solution is to only have the "narrow" drop-down menu, with an up-down arrow next to it to indicate sorting.    |
+|       Incident Descirption        | Severity (if negative) |      Image and Explanation of Revision |         
+|:---------------------------------:|:----------------------:|:--------------------------------------:|:
+|   Confusion about sort/narrow     |            2            |    See image (number).  Solution is to only have the "narrow" drop-down menu, with an up-down arrow next to it to indicate sorting.    |
 |   Add "reply" button to questions and suggestions in "all feedback"     |   3       |   Add "reply" button to questions or suggestions that come up under "all feedback." This takes users to the communication screens. |    
 |   Swipe through data viz on EXHIBIT [  ] screen     |      1                  |  Add left and right arrow to indicate swiping ability.  |    
 
