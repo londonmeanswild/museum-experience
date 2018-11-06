@@ -25,7 +25,7 @@ Our cognitive walk-through proved to be relatively unexciting because our hueris
 
 #### first usability test
 
-|       Incident Descirption        | Severity (if negative) |      Image and Explanation of Revision |         
+|       Incident Description        | Severity (if negative) |      Image and Explanation of Revision |         
 |:---------------------------------:|:----------------------:|:--------------------------------------:|
 |   Confusion about sort/narrow     |            2            |    See image (number).  Solution is to only have the "narrow" drop-down menu, with an up-down arrow next to it to indicate sorting.    |
 |   Add "reply" button to questions and suggestions in "all feedback"     |   3       |   Add "reply" button to questions or suggestions that come up under "all feedback." This takes users to the communication screens. |    
