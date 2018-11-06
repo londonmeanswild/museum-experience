@@ -16,7 +16,7 @@ Our cognitive walk-through proved to be relatively unexciting because our hueris
 ![cognitive walkthrough 1](/museum-experience/images/prototyping/cognitive-walkthrough1.JPG)
 ![cognitive walkthrough 2](/museum-experience/images/prototyping/cognitive-walkthrough2.JPG)
 
-### revisions
+### revisions from usability test
 
 |       Incident Description        | Severity (if negative) |      Image and Explanation of Revision |         
 |:---------------------------------:|:----------------------:|:--------------------------------------:|
