@@ -15,8 +15,8 @@ We found this exercise to be most helpful as a design review rather than a testi
 #### cognitive walk-through results
 Our cognitive walk-through proved to be relatively unexciting because our hueristic evaluators were quite attentive to issues. A lot of their feedback fixed problems that otherwise would have come up in the walkthrough. We also may be too close to the project, because we weren't able to come up with issues as we walked through the app. It may have been useful to do a cognitive walkthrough with an outside perspective. 
 
-|       Identified Issue            |             Severity                      |       Image and  Revision   | 
-|:---------------------------------:|:-----------------------------------------:|:---------------------------:|:
+|       Identified Issue            |             Severity                      |       Image and  Revision   |
+|:---------------------------------:|:-----------------------------------------:|:---------------------------:|
 |                                   |             Severity                      |                                                           |
 |                                   |             Severity                      |                                                           |    
 |                                   |             Severity                      |                                                           |                                                
