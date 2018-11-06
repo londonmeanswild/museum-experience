@@ -16,13 +16,6 @@ Our cognitive walk-through proved to be relatively unexciting because our hueris
 ![cognitive walkthrough 1](/museum-experience/images/prototyping/cognitive-walkthrough1.JPG)
 ![cognitive walkthrough 2](/museum-experience/images/prototyping/cognitive-walkthrough2.JPG)
 
-|       Identified Issue            |             Severity                      |       Image and Revision    |
-|:---------------------------------:|:-----------------------------------------:|:---------------------------:|
-|                                   |             Severity                      |                                                           |
-|                                   |             Severity                      |                                                           |    
-|                                   |             Severity                      |                                                           | 
-
-
 ### revisions
 
 |       Incident Description        | Severity (if negative) |      Image and Explanation of Revision |         
@@ -30,6 +23,14 @@ Our cognitive walk-through proved to be relatively unexciting because our hueris
 |   Confusion about sort/narrow in "all feedback"     |            2            |    See image (number).  Solution is to only have the "narrow" drop-down menu, with an up-down arrow next to it to indicate sorting.    |
 |   Add "reply" button to questions and suggestions in "all feedback"     |   3       |   Add "reply" button to questions or suggestions that come up under "all feedback." This takes users to the communication screens. |    
 |   Swipe through data viz on EXHIBIT [  ] screen     |      1                  |  Add left and right arrow to indicate swiping ability.  |    
+
+### old paper prototype screens
+![all feedback old](/museum-experience/images/prototyping/all-feedback-old.JPG)
+![individual analytics old](/museum-experience/images/prototyping/individual-analytics-old.JPG)
+
+### new paper prototype screens
+![all feedback new](/museum-experience/images/prototyping/all-feedback-new.JPG)
+![individual analytics new](/museum-experience/images/prototyping/individual-analytics-new.JPG)
 
 ### plans
 Chris is trying to schedule at least one usability test with a curator, so we can get a better idea of what they want and need. We also intend on asking what kind of data they would like access to in the visualizations. Our goals are to identify design and process flaws, learn what curators would want out of our product, and discover any use paths that we didn't identify or predict. Each team member needs practice at being the computer, performing introductions, and taking notes, so we will rotate based on availability. We will also probably attempt to do a usability test with a Williams student who is more of an art enthusiast. This way, we can get a sense of a more typical museum visitor and the type of information they might appreciate. However, we will still have them walk through the app with the idea that this is primarily for curators. Furthermore, this will be particularly helpful in addressing the communication of curators to museum visitors, as this will allow us to understand if this function is desired, and how we can improve it.
