@@ -60,5 +60,6 @@ Second: Kenneth tested MUSE's design, Landon was the computer, and Chris took no
 
 ![he1](/museum-experience/images/prototyping/heuristic-1.JPG)
 ![he2](/museum-experience/images/prototyping/heuristic-2.JPG)
+![he3](/museum-experience/images/prototyping/chris-heuristic-eval.JPG)
       
 
