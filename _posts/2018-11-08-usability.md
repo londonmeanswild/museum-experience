@@ -59,3 +59,48 @@ Assumption is that the curator can respond to the suggestion.
 Current exhibit analytics: what would you think bout creating part of screen that. Said “future exhibition planning” 
 - Have current and past, but create interface to allow curator to potentially plan in anticipation. tools they can create initial layouts and collect. Work for inclusion along with information about them, exhibitions they’ve been used n the past + feedback. 
     - Add future exhibitions 
+    
+   
+   Notes from UT3
+   Curator 
+
+Home screen: asked what each thing is. said it would help to have indicators of what each exhibit is. 
+Q&S screen: identified text preview and exhibit, then asked how to sort. 
+	Sort dropdown
+- curators like visual things, prettier and visual, less text the better. 
+- Match symbols of reply and replied and ignored on the dropdown and this screen. 
+- chris asked how we should organize. 
+    - Questions are different from comments. Those are different, so separate questions and suggestions.  I would feel compelled to answer questions, suggestions I’d want to tuck away. I’d want to address people’s questions in a more timely way. 
+
+Clicked reply button
+Identified components of the screen, clicked respond. Said our keyboard pop up was cute. 
+- Is there some limit to how much you can write? (Chris: At this point we’re thinking limits based on time)
+Clicked Ignore:
+Explained GMAIL functionality and meaning of ignore. Said it seems g ood.
+
+Home screen.  All feedback. 
+- We collect visitor comments in a more manual way via people taking surveys and. Interviews, so monthly we get the responses. 
+- Didn’t jump to “narrow feedback.” Chris asked: what information would be most useful to you? Would you prefer more subsets in home, or more robust sort features? 
+    - Would prefer the categories in the home page. All feedback seems overwhelming. Why would I ever want to see that? That wouldn’t be a daily occurrence, that could be buried. Can we break it down by time? What’s the stuff that’s most useful to me? A: q questions people have for me. If people have questions about the art or show itself then I didn’t convey something right. B: suggestions about what I can do better or differently may or may not be useful depending on the source. I think we wanna know, we want to have as good of a sense we can if the goals of the show, the goals we’ve set are being met, if they’re coming away with XYZ and not coming away with that we want to know. or I they are coming away with that and something else, that’s useful. The comments are to help me understand if I’ve met my goals FOR THE exhibition. The tricky part about when you open up to visitors response is you. Often get suggestions for show to. That may or may not be useful. 
+- Chris “for you personally, what data would you like?” 
+    - Splitting up by exhibit, questions, then suggestions.  
+    - The issue is. not knowing anything about the person. If. The. Host is asking in person they’ll know if there’s an accessibility problem that prevents. The visitor from enjoying t he exhibit. Context. Is significant but I don’t see how you can capture that. Context is important. Is there a way for feedback givers to identify that gives them some context and relationship to the museum.  That way we can see feedback from students or something, and visualize it. That might inform decision we might make. 
+    - Institutionally we’d want to see the questions overall so we could see seasonal responses.
+
+home. Exhibit E. 
+“Oh boy okay.” Seemed overwhelmed. 
+Thumbnails need to be sorted by comments and feedback.
+Graphs: things that are new to collection wouldn’t be connect to specific artwork. 
+
+Chris asked what set of data would be useful to visualize:
+- Overall satisfaction with experience is useful. 
+- I think I want to know if. They’re taking away what I think I’m putting out. If I’m making a show, writing labels, putting it on the wall, are they coming away from the experience with the things I hope they do. Is their experience the one I was hoping I would have? The kinds of things I would want to know are. 
+    - overall sense of what the show is doing
+    - Big takeaway, big thought about the exhibition
+    - Did something in particular move them in one way or another? Tell them something they didn’t know, help them see something in a new way. Piss them off? Make them think? 
+        - But it would be again somewhat contextual scaled to. The kinds of goals I can set. But can the ways we collect data be tailored to the goals we have set? So we’re asking the right question in the right way. 
+- I like the art thumbnails but I think the majority of feedback will be about a general experience. It’ll be less art-object specific. 
+
+We’re always j just struggling with knowing who our public is, who they are, we have some vague antidotal ways to know that but. We don’t always really know who they are.  And. That should inform a lot of what we’re doing. Not that we should do things to please the public but the more we know about who they are the more we can develop and be intentional about what we’re trying to do and how we’re trying to engage. 
+
+Make sure that the assumption of our information is clearly conveyed and the assumptions we are 
