@@ -21,8 +21,11 @@ title:  usability design review
 
 ## Prototype Changes
 
-### Here's an overview of our original paper prototype since the heuristic evaluation (we don't have original images of all the individual pieces, so instead we have the overview here):
+### Here's an overview of our original paper prototype since the heuristic evaluation (we don't individual images for all of the screens, so instead we have the overview here):
 ![original prototype](/museum-experience/images/prototyping/edited-full-flow.jpg)
+
+### Here's an overivew of our new paper prototype
+![new prototype](/museum-experience/images/prototyping/final-overview.jpg)
 
 ### Home Screen
 ![home screen](/museum-experience/images/prototyping/final-home.jpg)
