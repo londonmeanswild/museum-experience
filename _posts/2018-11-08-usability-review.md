@@ -76,9 +76,11 @@ Let’s now assume they click the all feedback button. They will then be taken t
 ![new all feedback screen](/museum-experience/images/prototyping/final-all-feedback.JPG){:height="80%" width="80%"}
 
 Let's assume a user now wants to reply to a comment, so they click reply ("ignored" and "replied" are also still clickable, and take you to the same screen). They will then be taken to a response preview screen where they can see the exhibit/artwork and the full question. The curator can see responses from previous curators, edit those responses, ignore the question (which will mark the question as ignored), or respond to the question. 
+
 ![new response preview screen](/museum-experience/images/prototyping/final-response-preview.JPG){:height="80%" width="80%"}
 
 Let's assume the user clicks respond. Now they will see a response screen and be able to type and submit their response.
+
 ![new response screen](/museum-experience/images/prototyping/final-response.JPG){:height="80%" width="80%"}
 
 ## Discussion of Important Changes
