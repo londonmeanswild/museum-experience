@@ -79,6 +79,7 @@ Let's assume a user now wants to reply to a comment, so they click reply ("ignor
 ![new response preview screen](/museum-experience/images/prototyping/final-response-preview.JPG){:height="80%" width="80%"}
 
 Let's assume the user clicks respond. Now they will see a response screen and be able to type and submit their response.
+![new response screen](/museum-experience/images/prototyping/final-response.JPG){:height="80%" width="80%"}
 
 
 
