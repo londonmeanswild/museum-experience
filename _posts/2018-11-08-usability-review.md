@@ -44,7 +44,7 @@ Home Screen|No longer need 2 buttons for visitor feedback because of overhaul to
 ![new prototype](/museum-experience/images/prototyping/final-overview.JPG){:height="80%" width="80%"}
 
 ### Home Screen (old, new)
-![old home screen](/museum-experience/images/prototyping/edited-home-page.jpeg){:height="50%" width="50%"}
+![old home screen](/museum-experience/images/prototyping/edited-home-page.jpeg){:height="30%" width="30%"}
 ![new home screen](/museum-experience/images/prototyping/final-home.JPG){:height="80%" width="80%"}
 
 ### "All Feedback" Screen (old, new)
@@ -52,21 +52,21 @@ Home Screen|No longer need 2 buttons for visitor feedback because of overhaul to
 ![new all feedback screen](/museum-experience/images/prototyping/final-all-feedback.JPG){:height="80%" width="80%"}
 
 ### "[Category] Exhibit" Screen (old, new)
-![old response preview screen](/museum-experience/images/prototyping/edited-ignore-answer.jpeg){:height="50%" width="50%"}
+![old response preview screen](/museum-experience/images/prototyping/edited-ignore-answer.jpeg){:height="30%" width="30%"}
 ![new response preview screen](/museum-experience/images/prototyping/final-response-preview.JPG){:height="80%" width="80%"}
 
 ### "Questions and Suggestions" Screen (DELETED)
-![old questions and suggestions screen](/museum-experience/images/prototyping/edited-comment-page.jpeg){:height="50%" width="50%"}
+![old questions and suggestions screen](/museum-experience/images/prototyping/edited-comment-page.jpeg){:height="30%" width="30%"}
 
 ### "Exhibit [A]" Screen (old, new)
-![old exhibit analytics](/museum-experience/images/prototyping/edited-data-viz.jpeg){:height="50%" width="50%"}
+![old exhibit analytics](/museum-experience/images/prototyping/edited-data-viz.jpeg){:height="30%" width="30%"}
 ![new exhibit analytics](/museum-experience/images/prototyping/final-exhibit-analytics.JPG){:height="80%" width="80%"}
 
 ### "Exhibit [A] General Data" Screen (DELETED)
-![old analytics general data screen](/museum-experience/images/prototyping/OLD-analytics-general-data.JPG){:height="50%" width="50%"}
+![old analytics general data screen](/museum-experience/images/prototyping/OLD-analytics-general-data.JPG){:height="80%" width="80%"}
 
 ### "Individual Piece Analytics" Screen (old, new)
-![old individual piece analytics screen](/museum-experience/images/prototyping/OLD-artwork-analytics.png){:height="50%" width="50%"}
+![old individual piece analytics screen](/museum-experience/images/prototyping/OLD-artwork-analytics.png){:height="30%" width="30%"}
 ![new individual piece analytics screen](/museum-experience/images/prototyping/final-artwork-analytics.JPG){:height="80%" width="80%"}
 
 
