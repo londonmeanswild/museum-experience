@@ -19,24 +19,27 @@ title:  usability design review
 ### Table (see figures below)
 
 
-## Prototype Changes (below are the edited versions of our original screens)
+## Prototype Changes
+
+### Here's an overview of our original paper prototype since the heuristic evaluation (we don't have original images of all the individual pieces, so instead we have the overview here):
+![original prototype](/museum-experience/images/prototyping/edited-full-flow.jpg)
 
 ### Home Screen
+![home screen](/museum-experience/images/prototyping/final-home.jpg)
 
 ### "All Feedback" Screen
+![all feedback screen](/museum-experience/images/prototyping/final-all-feedback.jpg)
 
 ### "[Category] Exhibit" Screen
+![response preview screen](/museum-experience/images/prototyping/final-response-preview.jpg)
 
-### "Questions and Suggestions" Screen
+### "Questions and Suggestions" Screen (DELETED)
 
 ### "Exhibit [A]" Screen
 
-### "Exhibit [A] General Data" Screen
+### "Exhibit [A] General Data" Screen (DELETED)
 
 ### "Individual Piece Analytics" Screen
-
-### Here is the overview of our prototype since the heuristic evaluation:
-![original prototype](/museum-experience/images/prototyping/edited-full-flow.jpg)
 
 ### Here is the overview of our new prototype:
 
