@@ -55,7 +55,12 @@ title:  usability design review
 ![new individual piece analytics screen](/museum-experience/images/prototyping/final-artwork-analytics.JPG){:height="80%" width="80%"}
 
 
-## Other
+## Task Review
+Note: task 1 is now a more specific version of our old task (summarizing and communicating data), and task 2 is staying the same. Since we are dealing with fictional data, it has been hard for us to figure out how vague or specific we need to be. However, after talking to a curator, I think we've narrowed down to three important pieces of information (there was discussion about this in the feedback table above). Based on this, we've decided that task 1 will revolve around communicating this information to the curators (in as simple a way as possible). Additionally, the curator seemed to be very interested in the communication aspect of our design (task 2), so we've also decided to keep that, and again, make that process as easy as possible.
+
+### Task 1: Find Exhibit Graphs/Analytics
+
+
 
 
 
