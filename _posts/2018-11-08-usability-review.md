@@ -25,7 +25,7 @@ title:  usability design review
 |“All Feedback” Screen|No way to reply to questions and suggestions from “All Feedback” screen.|4|Add “reply” button to questions or suggestions that come up under “all feedback.” This takes users to the communication screens. Also add “Replied” and “Ignored” boxes to comments.|
 |“All Feedback” Screen|Confusion about default sorting|2|Added time stamps to suggest default is by most recently posted|
 |“[Category] Exhibit” Screen|Wanted to be able to edit responses|3|Add edit functionality (pencil icon)|
-|Home Screen|No longer need 2 buttons for visitor feedback because of overhaul to “All Feedback” screen||Delete “Q and S” button|
+|Home Screen|No longer need 2 buttons for visitor feedback because of overhaul to “All Feedback” screen|d|Delete “Q and S” button|
 |“Questions and Suggestions” Screen|This screen is no longer necessary because of overhaul to “All Feedback” screen|d|d|
 |“Exhibit [A]” Screen|Not always clear what a click on art thumbnail will do (usually clear it’s a button, but not clear what information this gets you)|2|Add title above art thumbnails (“Artwork Analytics (Click to See More)”). Also add more clear organization  sort alphabetically by title, and also have title and thumbnail|
 |“Exhibit [A]” Screen|Now that overall analytics is more specific, this should be the highlight of the screen|3|Flip “Overall Analytics” with “Artwork Analytics”|
