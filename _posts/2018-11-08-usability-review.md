@@ -18,7 +18,8 @@ title:  usability design review
 
 ### Table (see figures below)
 
-## Prototype Changes (First: Before Change, Second: After Change)
+
+## Prototype Changes (below are the edited versions of our original screens)
 
 ### Home Screen
 
@@ -33,6 +34,14 @@ title:  usability design review
 ### "Exhibit [A] General Data" Screen
 
 ### "Individual Piece Analytics" Screen
+
+### Here is the overview of our prototype since the heuristic evaluation:
+![original prototype](/museum-experience/images/prototyping/edited-full-flow.jpg)
+
+### Here is the overview of our new prototype:
+
+
+## Other
 
 
 
