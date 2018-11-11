@@ -24,7 +24,7 @@ title:  usability design review
 “All Feedback” Screen|Too vague|4|Make it more specific (more similar to our original “Questions and Suggestions” screen) – see below solutions|
 “All Feedback” Screen|No way to reply to questions and suggestions from “All Feedback” screen.|4|Add “reply” button to questions or suggestions that come up under “all feedback.” This takes users to the communication screens. Also add “Replied” and “Ignored” boxes to comments.|
 “All Feedback” Screen|Confusion about default sorting|2|Added time stamps to suggest default is by most recently posted|
-“[Category] Exhibit” Screen|Wanted to be able to edit responses|3|Add edit functionality (pencil icon)
+“[Category] Exhibit” Screen|Wanted to be able to edit responses|3|Add edit functionality (pencil icon)|
 Home Screen|No longer need 2 buttons for visitor feedback because of overhaul to “All Feedback” screen||Delete “Q and S” button|
 “Questions and Suggestions” Screen|This screen is no longer necessary because of overhaul to “All Feedback” screen|||
 “Exhibit [A]” Screen|Not always clear what a click on art thumbnail will do (usually clear it’s a button, but not clear what information this gets you)|2|Add title above art thumbnails (“Artwork Analytics (Click to See More)”). Also add more clear organization  sort alphabetically by title, and also have title and thumbnail|
@@ -38,6 +38,7 @@ Home Screen|No longer need 2 buttons for visitor feedback because of overhaul to
 ## Prototype Changes
 
 ### Here's an overview of our original paper prototype since the heuristic evaluation:
+![test image size](/museum-experience/images/prototyping/edited-full-flow.jpg){:height="50%" width="50%"}
 ![original prototype](/museum-experience/images/prototyping/edited-full-flow.jpg)
 
 ### Here's an overivew of our new paper prototype
