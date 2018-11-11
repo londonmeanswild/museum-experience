@@ -50,7 +50,7 @@ title:  usability design review
 ![old analytics general data screen](/museum-experience/images/prototyping/OLD-analytics-general-data.jpg)
 
 ### "Individual Piece Analytics" Screen (old, new)
-![old exhibit analytics](/museum-experience/images/prototyping/edited-data-viz.jpeg)
+![old individual piece analytics screen](/museum-experience/images/prototyping/OLD-artwork-analytics.jpg)
 ![new individual piece analytics screen](/museum-experience/images/prototyping/final-artwork-analytics.jpg)
 
 
