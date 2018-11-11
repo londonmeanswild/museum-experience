@@ -16,7 +16,7 @@ title:  usability design review
 
 ## Feedback
 
-### Table (see figures below)
+### Table (see figures below for more pictures of where problem occurs)
 | Where Problem Occurs| Problem Description| Severity| Solution|
 |---------------------|--------------------|:-------:|---------|
 |“All Feedback” Screen|Confusion about sort/narrow in “All Feedback.” Thought sort function was also a dropdown (wasn’t supposed to be).|2|See one below|
