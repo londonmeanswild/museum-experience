@@ -48,7 +48,7 @@ Home Screen|No longer need 2 buttons for visitor feedback because of overhaul to
 ![new home screen](/museum-experience/images/prototyping/final-home.JPG){:height="80%" width="80%"}
 
 ### "All Feedback" Screen (old, new)
-![old all feedback screen](/museum-experience/images/prototyping/OLD-all-feedback.JPG){:height="30%" width="30%"}
+![old all feedback screen](/museum-experience/images/prototyping/OLD-all-feedback.JPG){:height="80%" width="80%"}
 ![new all feedback screen](/museum-experience/images/prototyping/final-all-feedback.JPG){:height="80%" width="80%"}
 
 ### "[Category] Exhibit" Screen (old, new)
