@@ -26,11 +26,11 @@ title:  usability design review
 |“All Feedback” Screen|Confusion about default sorting|2|Added time stamps to suggest default is by most recently posted|
 |“[Category] Exhibit” Screen|Wanted to be able to edit responses|3|Add edit functionality (pencil icon)|
 |Home Screen|No longer need 2 buttons for visitor feedback because of overhaul to “All Feedback” screen||Delete “Q and S” button|
-|“Questions and Suggestions” Screen|This screen is no longer necessary because of overhaul to “All Feedback” screen|||
+|“Questions and Suggestions” Screen|This screen is no longer necessary because of overhaul to “All Feedback” screen|d|d|
 |“Exhibit [A]” Screen|Not always clear what a click on art thumbnail will do (usually clear it’s a button, but not clear what information this gets you)|2|Add title above art thumbnails (“Artwork Analytics (Click to See More)”). Also add more clear organization  sort alphabetically by title, and also have title and thumbnail|
 |“Exhibit [A]” Screen|Now that overall analytics is more specific, this should be the highlight of the screen|3|Flip “Overall Analytics” with “Artwork Analytics”|
 |“Exhibit [A]” Screen|Graphs in overall analytics are generally too vague (since we are using nonexistent data)|3|Based on curator feedback, we found the more important information is visitor satisfaction for the current season and whether or not the visitor has the experience the curator was hoping them to have. Therefore, the overall analytics for all exhibits will have the same graphs: visitor satisfaction over the last year, histogram for the type of feedback (questions, suggestions, and comments), and a distribution of the types of emotions the visitors are feeling (e.g. if the curator wants to create an upbeat and happy exhibit, this will give them a sense of whether they are accomplishing this).|
-|“Exhibit [A] General Data” Screen|Don’t need this anymore since overhaul to “overall analytics” above|||
+|“Exhibit [A] General Data” Screen|Don’t need this anymore since overhaul to “overall analytics” above|d|d|
 |“Individual Piece Analytics” Screen|Would have liked functionality to swipe through specific artworks (instead of going back and clicking on a new one)|1|Add left and right arrow to indicate swiping ability.|
 |“Individual Piece Analytics” Screen|Curator said most feedback they’ve gotten in the past have been about the exhibit, not individual pieces. Therefore, probably don’t need feedback section|1|Delete feedback section and just have data visualizations. Use similar graphs to the ones in the previous screen (but make the data reflect the specific piece of artwork)|
 
