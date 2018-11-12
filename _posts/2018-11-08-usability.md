@@ -3,7 +3,7 @@ title: usability check-in
 type: post
 ---
 
-Notes from UT2
+## Notes from UT2
 
 Exhibit A: 
 Is this a representation of an exhibit or icons.
@@ -61,7 +61,7 @@ Current exhibit analytics: what would you think bout creating part of screen tha
     - Add future exhibitions 
     
    
-   Notes from UT3
+ ##  Notes from UT3
    Curator 
 
 Home screen: asked what each thing is. said it would help to have indicators of what each exhibit is. 
