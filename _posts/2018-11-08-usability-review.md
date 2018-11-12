@@ -7,12 +7,53 @@ title:  usability design review
 
 ### Usability Test 1
 
+Our first usability test was with a student. UT1 is an econ major who has only been to WCMA once, but asks a lot of questions about the way things work. UT1 is a good friend of Malibu's so she didn't attend this test. We met at Lee's because UT1 was finishing up dinner and had a short window of time in which to do the test. Each team member introduced themselves, and explained their roles. Landon introduced the project and took notes while Chris was the computer and performed the majority of in-test communication. Kenneth was going to take notes but had to leave unexpectedly. UT1 knows one of our classmates, so we found out mid-introduction that they had already heard about the project and assignment. Landon introduced the project as an application that will allow WCMA curators to interact with visitor feedback and exhibit data. He then described the two tasks that UT1 should try to complete, with as little help as possible. We also told UT1 that he should try to voice his thoughts outloud so we could understand areas of confusion, and give us a sense of possible improvements.
+
+We found this exercise to be most helpful as a design review rather than a testing protocol review. While UT1 performed actions and talked through their thoughts, we identified aspects of the design that made navigation difficult. Some of the critiques were of things that had been recommended by technically trained testers, which is interesting. As the testing process unfolded we realized we needed to be prepared for users to take different paths to the same information. 
+
+
+In response, we planned ways for users to navigate information more intuitively, rather than have functionality "silos." We also added better indicators for navigation functionality. 
+
 
 ### Usability Test 2
+
+We didn't make 
+UT2 is an Art History professor who specializes in African art and the relationship of people to spaces. Their office is in the basement of WCMA so the Object Lab is nothing new to UT2. We met in the Object Lab for this walkthrough because we wanted to place UT2 in a space that lent itself to considering people, art, and the classifcation of objects in WCMA's database. All three of us were able to participate in a conversation with UT2 around thoughts, questions, and ideas they had. Chris was the computer. Landon and Kenneth took notes.  As the computer, Chris had more opportunities for question asking, Landon and Kenneth were pretty swamped in note-taking. The project and test was introduced, roles explained, and the importance of thinking aloud was stressed. 
+
+UT2 asked specific questions about the role of data vizualizations, and offered opinions on the kind of information that could be useful to track. We learned that the WCMA database does not have cross-category access. African photographs can be in photographs, African, or paper. 
+
+Chris asked specifically what kind of data UT2 would want access to, as a user, what kinds of charts would be useful, and what kind of layouts may be more intuitive. UT2 said that they want to know if visitors are taking a way what UT2 thinks they're putting out. If, after all the effort of making a show, visitors are coming away from the experience with the things UT2 hoped they do. 
+
+UT2 said that this information would have to be contextual, scaled to the kind of goals they can set. But data collection methods should be tailored to goals, so the right questions are being asked in the right way. 
+
+Chris also specifically asked how we should organize questions, comments, and feedback. UT2 pointed out that comments are different from suggestions which are different from general feedback and event-specific feedback. 
+UT2 also asked questions about the way chat features would react to signal a change in status, annd asked for the option to save art in an "future exhibitions ideas" bucket. 
+
+We did not make any changes to the paper prototype after UT2. We wanted to see if UT3, a curator, had similar responses and navigation patterns to UT2.  The recommended changes by UT2 were:
+* Ability to navigate from data analytics to comments
+* Amazon review organizational style in bar chart for feedback, each bar takes you to the corresponding feedback.
+* Add help feature to home screen
+* Distinguish between things we can reply to and things we can't
+* Allow curators to generate their own graphs based on data, offer different types of visualizations they can work with. 
+* Consider a notes function 
+* Ability to store art in a "future exhibits" section so curators can plan in anticipation. Provide tools they need to create initial layouts and collect pieces. 
 
 
 ### Usability Test 3
 
+UT3 was a curator, Chris and Landon met them in what looked like a common/kitchen space in WCMA offices. Chris was the computer, Landon introduced and took notes. They both asked questions. It made sense to meet UT3 in their office area because they were meeting us at the end of their day. The project and test was introduced, roles explained, and the importance of thinking aloud was stressed. We tested with the same prototype we used for UT2, but when UT3 asked questions or pointed out similar changes they wanted made, we said that those were changes we were planning on doing, could they talk more about it. This allowed us to get very in-depth feedback about a few issues. 
+
+UT3 said that curators like pretty visual things, so the less text the better. When asked how information should be organized, UT3 said "Questions are different from comments. Those are different, so separate questions and suggestions. I would feel compelled to answer questions, suggestions I’d want to tuck away (until I have time to reflect). I’d want to address people’s questions in a more timely way."
+
+UT3 liked the idea of more immediate responses, since feedback tends to be delivered to curators monthly. Chris asked what kind of information would be most useful to them as a curator. Would they prefer more subsets in "home" or a more robust sort feature? UT3 said they prefer more categories in the home page, because all feedback seems overwhelming. "Why would I ever want to see that? That wouldn’t be a daily occurrence, that could be buried." UT3 then asked "can we break it down by time? What’s the stuff that’s most useful to me?"
+UT3 wants to see questions people have, because "if people have questions about the art or show itself then I didn’t convey something right." 
+
+UT3 would split data up by exhibition, questions, then suggestions. Context is important in feedback so it's hard to judge responses without context. WCMA as an institution also would want seasonal feedback. 
+
+UT3 seemed overwhelmed on the Exibit [A] page. UT3 would like data on
+* overall sense of what the show is doing
+* big takeaways,  thoughts about the exhibition 
+* did something move them? 
 
 ## Feedback
 
