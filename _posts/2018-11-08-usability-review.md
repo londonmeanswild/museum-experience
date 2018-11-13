@@ -17,7 +17,6 @@ In response, we planned ways for users to navigate information more intuitively,
 
 ### Usability Test 2
 
-We didn't make 
 UT2 is an Art History professor who specializes in African art and the relationship of people to spaces. Their office is in the basement of WCMA so the Object Lab is nothing new to UT2. We met in the Object Lab for this walkthrough because we wanted to place UT2 in a space that lent itself to considering people, art, and the classifcation of objects in WCMA's database. All three of us were able to participate in a conversation with UT2 around thoughts, questions, and ideas they had. Chris was the computer. Landon and Kenneth took notes.  As the computer, Chris had more opportunities for question asking, Landon and Kenneth were pretty swamped in note-taking. The project and test was introduced, roles explained, and the importance of thinking aloud was stressed. 
 
 UT2 asked specific questions about the role of data vizualizations, and offered opinions on the kind of information that could be useful to track. We learned that the WCMA database does not have cross-category access. African photographs can be in photographs, African, or paper. 
