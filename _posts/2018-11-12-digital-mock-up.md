@@ -2,14 +2,7 @@
 type: post
 title: digital mockup
 --- 
-<style type="text/css">
-.image-left {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  float: right;
-}
-</style>
+
 
 In transitioning from paper to digital mock-up, we had to decide what feedback made the most sense to apply. We decided to focus on our tasks, and things that supported our tasks. We decided to not do the following functions because they were outside the scope of our tasks: 
 
@@ -65,7 +58,8 @@ Let's assume a user now wants to reply to a question, so they click reply ("igno
 
 ![Preview Question](/museum-experience/images/prototyping/digital_mockup/respond-ignore-question.jpg.png){:height="40%" width="40%"}
 
-Let's assume the user clicks respond. Now they will see a response screen and be able to type and submit their response.![Respond](/museum-experience/images/prototyping/digital_mockup/reply-to-question.jpg.png){:height="40%" width="40%"} ![Response Sent!](/museum-experience/images/prototyping/digital_mockup/you-replied.jpg.png){:height="40%" width="40%"}
+Let's assume the user clicks respond. Now they will see a response screen and be able to type and submit their response.
+![Respond](/museum-experience/images/prototyping/digital_mockup/reply-to-question.jpg.png){:height="40%" width="40%"} ![Response Sent!](/museum-experience/images/prototyping/digital_mockup/you-replied.jpg.png){:height="40%" width="40%"}
 
 
 
