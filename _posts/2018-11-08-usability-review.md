@@ -56,16 +56,16 @@ UT3 seemed overwhelmed on the Exibit [A] page. UT3 would like data on
 
 ## Feedback
 
-### Table (see figures below for pictures of where problem occurs)
-![usability feedback table](/museum-experience/images/prototyping/usability-feedback-table.png){:height="100%" width="100%"}
-
-Note: When we received user feedback, we were not only given information on how to improve our design, but users tended to also communicate new functionalities and completely different ways we could have communicated the data. However, implementation of these new ideas would require us to run more usability tests in order to determine whether they were actually more intuitive than our original design. Therefore, we did not implement the following functions from the feedback that was given: 
+Note: When we received user feedback, we were not only given information on how to improve our design, but users tended to also communicate new functionalities and completely different ways we could have communicated the data. However, implementation of these new ideas would require us to run more usability tests in order to determine whether they were actually more intuitive than our original design. Therefore, we did not implement the following functions from the feedback that was given (and the table only shows revisions we did make): 
 
 * Amazon-esque review feedback organization (UT2)
 * Allow curators to design their own graphs based on data (UT2)
 * Store art in a "future exhibits" collection (UT2)
 * Notes function (UT2)
 * Data collection that provides context (UT3) 
+
+### Table (see figures below for pictures of where problem occurs)
+![usability feedback table](/museum-experience/images/prototyping/usability-feedback-table.png){:height="100%" width="100%"}
 
 ## Prototype Changes
 
