@@ -2,7 +2,7 @@
 type: post
 title: digital mockup
 --- 
-Overall, our digital mockup is fairly consistent with the final paper prototype. However, one main difference is that we decided to leave in a login screen and a home page profile button. When curators respond to questions, it is probably important to know which curators responded to which questions. Therefore, we decided to show that accounts for each curator should exist so that responses to questions are a little more personal (in contrast to being anonymized). This way visitors can ask specific curators if they have further questions. Additionally, we made the questions and descriptions throughout the design more specific in order to have a more realistic feel. We also added a confirmation popup to curator replies to questions (just to make the submitting action more explicit). 
+Overall, our digital mockup is fairly consistent with the final paper prototype. However, one main difference is that we decided to leave in a login screen and added a home page profile button. When curators respond to questions, it is probably important to know which curators responded to which questions. Therefore, we decided to show that accounts for each curator should exist so that responses to questions are a little more personal (in contrast to being anonymized). This way visitors can ask specific curators if they have further questions. Additionally, we made the questions and descriptions throughout the design more specific in order to have a more realistic feel. We also added a confirmation popup to curator replies to questions (just to make the submitting action more explicit). 
 
 ### Overview 
 
