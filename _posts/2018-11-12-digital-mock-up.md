@@ -2,6 +2,14 @@
 type: post
 title: digital mockup
 --- 
+<style type="text/css">
+.image-left {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+}
+</style>
 
 In transitioning from paper to digital mock-up, we had to decide what feedback made the most sense to apply. We decided to focus on our tasks, and things that supported our tasks. We decided to not do the following functions because they were outside the scope of our tasks: 
 
@@ -21,7 +29,8 @@ analytics screen{:height="30%" width="30%"} ![Overall Headdress Analytics with H
 
 #### Task 1 [Find Exhibit Graphs/Analytics](https://github.com/londonmeanswild/museum-experience/blob/master/_posts/2018-11-08-usability-review.md#task-1-find-exhibit-graphsanalytics)
 
-The user starts at the home screen. ![Home screen](/museum-experience/images/prototyping/digital_mockup/home-screen.jpg.png){:height="50%" width="50%"} They then have a couple options from here: click the all feedback button, or click one of the exhibits listed on the bottom half of the screen. Let’s first assume they click one of the exhibits. They will then be taken to the analytics for the exhibit they clicked, showing both the overall analytics for the exhibit and an alphabetically organized set of the artwork in that exhibit. ![Exhibit Analytics](/museum-experience/images/prototyping/digital_mockup/exhibit-analytics.jpg.png){:height="50%" width="50%"} The graphs from the overall analytics are based on what we found are the most important and feasible pieces of information (feasible based on assuming we have visitor feedback data available, and important based on discussion with a curator). ![Overall Headdress Analytics](/museum-experience/images/prototyping/digital_mockup/object-analytics-information.png){:height="50%" width="50%"}
+![Home screen](/museum-experience/images/prototyping/digital_mockup/home-screen.jpg.png){:height="50%" width="50%"} The user starts at the home screen. They then have a couple options from here: click the all feedback button, or click one of the exhibits listed on the bottom half of the screen. Let’s first assume they click one of the exhibits. They will then be taken to the analytics for the exhibit they clicked, showing both the overall analytics for the exhibit and an alphabetically organized set of the artwork in that exhibit. ![Exhibit Analytics](/museum-experience/images/prototyping/digital_mockup/exhibit-analytics.jpg.png){:height="50%" width="50%"} 
+The graphs from the overall analytics are based on what we found are the most important and feasible pieces of information (feasible based on assuming we have visitor feedback data available, and important based on discussion with a curator). ![Overall Headdress Analytics](/museum-experience/images/prototyping/digital_mockup/object-analytics-information.png){:height="50%" width="50%"}
 analytics screen{:height="50%" width="50%"} ![Overall Jacket Analytics](/museum-experience/images/prototyping/digital_mockup/object-analytics-two.png){:height="50%" width="50%"}
 analytics screen{:height="50%" width="50%"}
 
