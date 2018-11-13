@@ -39,9 +39,7 @@ The user starts at the home screen. They then have a couple options from here: c
 The graphs from the overall analytics are based on what we found are the most important and feasible pieces of information (feasible based on assuming we have visitor feedback data available, and important based on discussion with a curator). 
 
 ![Overall Headdress Analytics](/museum-experience/images/prototyping/digital_mockup/object-analytics-information.png){:height="40%" width="40%"}
-analytics screen{:height="40%" width="40%"} ![Overall Jacket Analytics](/museum-experience/images/prototyping/digital_mockup/object-analytics-two.png){:height="40%" width="40%"}
-analytics screen{:height="40%" width="40%"}
-
+![Overall Jacket Analytics](/museum-experience/images/prototyping/digital_mockup/object-analytics-two.png){:height="40%" width="40%"}
 
 Let's assume the user then clicks on a specfic peice of artwork. They will then be taken to the artwork analytics page which shows the piece of art, and the same graphs, except using data for that specific piece work. Additionally, the emotional distribution graph might be confusing since negative emotion may seem like a bad thing, so there is a help button to explain that this might not be the case. 
 
