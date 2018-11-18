@@ -17,8 +17,8 @@ Curators not only have limited feedback on visitor emotions, but even if they ha
 
 Since there are multiple other groups focusing on data collection, we decided to pivot our project from our original idea and assume that we have all necessary data (i.e. feedback from museum visitors about exhibits and artwork). Our vision is to create a mobile application that will not only organize and present user data in an effective way, but allow curators to understand the experiences of visitors without sacrificing large amounts of time. Through interviews and usability tests with various Williams students and WCMA curators, we have created a design that allows quick access to useful exhibit/artwork analytics as well as an easy way for curators to respond to visitor questions and suggestions. Our focus has changed over time, but our original project proposal can be found [here](https://londonmeanswild.github.io/museum-experience/clients/revised-project-proposal/).
 
-### initial paper prototype
-Our initial paper prototype writeup can be found [here](https://londonmeanswild.github.io/museum-experience/2018/10/28/paper-prototypes/). 
+## initial paper prototype
+Note: through feedback on the paper prototype deliverable, we realized our tasks may have been a little vague and didn't reflect what we intended. However, since we correct this on a future iteration, we will not update the tasks here and instead we will show the original tasks.
 **need critical aspects still**
 
 #### pictures
