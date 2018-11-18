@@ -4,8 +4,6 @@ subtitle: understanding to make
 image_path: /images/clients/blank.png
 ---
 
-## understanding to make
-
 ## connecting curators to what really matters
 ## heART team:
 * chris anton: coordinating mastermind
