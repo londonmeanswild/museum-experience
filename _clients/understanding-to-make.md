@@ -33,7 +33,7 @@ The other way users can see feedback is through specific exhibits. Assume we're 
 
 ### original task two: connecting curators with museum visitors
 Now assume we're back on the home screen. If the user clicks on the thought bubble, they will be brought to the middle-left screen, showing them short notation of questions and suggestions (i.e. if the question is too long then it will be cut off) and the exhibit it is referring to. By clicking on one of the reply buttons, the user will be taken to the middle-right screen, showing them a picture of the piece of exhibit, followed by the full question/suggestion, and the option to reply or ignore it. By clicking reply, the user then goes to the rightmost screen, opening a chat window that lets them send a message to the visitor who asked it. Aside: since we are creating a design for curators as our primary user, we are ignoring the implementation of the museum visitor aspects. Therefore, for now, we are not worrying about how this response gets into the hands of the visitor. 
-![communication functionality](/museum-experience/images/prototyping/pp-comm-flow-keyboard.jpg){:height="50%" width="50%"}
+![communication functionality](/museum-experience/images/prototyping/pp-comm-flow-keyboard.jpg){:height="70%" width="70%"}
 
 ## testing process
 
