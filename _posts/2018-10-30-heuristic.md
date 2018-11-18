@@ -7,10 +7,10 @@ show_comments: true
 ### original design
 The original multi-screen image is included because the singles are rotated, even though they weren't in the original file. 
 
-![original home page, questions and suggestions, and question or suggestion](/museum-experience/images/prototyping/pp-comm-flow-keyboard.jpg){:height="30%" width="30%"}
-![original question or suggestion](/museum-experience/images/prototyping/answer-question-original.JPG){:height="30%" width="30%"}
-![original home](/museum-experience/images/prototyping/original-home.JPG){:height="30%" width="30%"}
-![original question or suggestion](/museum-experience/images/prototyping/original-comment.JPG){:height="30%" width="30%"}
+![original home page, questions and suggestions, and question or suggestion](/museum-experience/images/prototyping/pp-comm-flow-keyboard.jpg){:height="50%" width="50%"}
+![original question or suggestion](/museum-experience/images/prototyping/answer-question-original.JPG){:height="50%" width="50%"}
+![original home](/museum-experience/images/prototyping/original-home.JPG){:height="50%" width="50%"}
+![original question or suggestion](/museum-experience/images/prototyping/original-comment.JPG){:height="50%" width="50%"}
 
 
 
@@ -36,19 +36,24 @@ Changes made:
 * Added data viz labels 
 
 this is our overall modified design:
-![modified overall design](/museum-experience/images/prototyping/edited-full-flow.jpg){:height="30%" width="30%"}
+
+![modified overall design](/museum-experience/images/prototyping/edited-full-flow.jpg){:height="70%" width="70%"}
       
 
 This is our modified questions and suggestions screen:
+
 ![modified questions and suggestions page](/museum-experience/images/prototyping/edited-comment-page.jpeg){:height="30%" width="30%"}
 
 This is our modified data visualization screen:
+
 ![added data viz labels to exhibit analytics](/museum-experience/images/prototyping/edited-data-viz.jpeg){:height="30%" width="30%"}
 
 This is our modified home page:
+
 ![added section label to home page](/museum-experience/images/prototyping/edited-home-page.jpeg){:height="30%" width="30%"}
 
 This is our modified ignore/answer questions screen:
+
 ![added previous responses section to question or suggestion](/museum-experience/images/prototyping/edited-ignore-answer.jpeg){:height="30%" width="30%"}
 
 
