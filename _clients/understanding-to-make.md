@@ -19,7 +19,6 @@ Since there are multiple other groups focusing on data collection, we decided to
 
 ## initial paper prototype
 Note: our initial paper prototype is not refined based on the feedback we received. This is because we address those issues in future iterations. In particular, we realized our tasks may have been a little vague and didn't reflect what we intended. Additionally, the log-in screen was probably not necessary. However, we will show the original tasks and screens here to illustrate how our design developed over time.
-**need critical aspects still**
 
 ### overview
 Here is an overview of our mobile application design for curators. After progressing past the log-in screen, users are sent to the home screen. This is the main hub where curators can begin their navigation towards either of our main tasks. The first path allows them to view data based on the exhibits and artwork while the second path allows them to communicate directly with museum visitors. More detailed information is discussed in the task walkthroughs.
@@ -35,8 +34,15 @@ The other way users can see feedback is through specific exhibits. Assume we're 
 ### original task two: connecting curators with museum visitors
 Now assume we're back on the home screen. If the user clicks on the thought bubble, they will be brought to the middle-left screen, showing them short notation of questions and suggestions (i.e. if the question is too long then it will be cut off) and the exhibit it is referring to. By clicking on one of the reply buttons, the user will be taken to the middle-right screen, showing them a picture of the piece of exhibit, followed by the full question/suggestion, and the option to reply or ignore it. By clicking reply, the user then goes to the rightmost screen, opening a chat window that lets them send a message to the visitor who asked it. Aside: since we are creating a design for curators as our primary user, we are ignoring the implementation of the museum visitor aspects. Therefore, for now, we are not worrying about how this response gets into the hands of the visitor. ![communication functionality](/museum-experience/images/prototyping/pp-comm-flow-keyboard.jpg){:height="30%" width="30%"}
 
-
 ## testing process
+
+### heuristic evaluation
+The first step in our testing process was a heuristic evaluation. We completed two evaluations in class and one was done outside of class. In the first evaluation, Chris was the computer, Kenneth took notes, Landon tested MUSE’s design, and Dana from MUSE was the evaluator. In the second evaluation, Landon was the computer, Chris took notes, Kenneth tested MUSE’s design, and Jamie from MUSE was the evaluator. Finally, since Chris was not able to test MUSE's product, he did a heuristic evaluation of his group's own updated paper prototype. The three heuristic evaluations can be found at the bottom of our [heuristic evaluation deliverable](htps://londonmeanswild.github.io/museum-experience/2018/10/30/heuristic/).
+
+### cognitive walkthrough
+The second step in our testing process was a cognitive walkthrough that we completed in class. Fortuntely, we received a lot of feedback from the heuristic evaluation and changed many aspects of our design that were originally unintuitive. However, this means we found it difficult to find faulty aspects of our interface as we went through the cognitive walkthrough. It probably would have been more beneficial to go through the cognitive walkthrough first and then have do a heuristic evaluation on an updated paper prototype. However, the cognitive walkthrough did allow us to notice that our task was probably a little too vague. Since we found our design to adequately answer most of the questions in the cognitive walkthrough (after we updated the prototype), the worksheet that we filled out in class was not super insightful. Therefore, we will not include it here.
+
+### usability tests
 
 Our heuristic evaluation can be found [here](htps://londonmeanswild.github.io/museum-experience/2018/10/30/heuristic/), while the usability design review can be found [here](https://londonmeanswild.github.io/museum-experience/2018/11/08/usability-review/). 
 
