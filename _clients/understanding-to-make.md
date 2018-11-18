@@ -36,14 +36,14 @@ The other way users can see feedback is through specific exhibits. Assume we're 
 Now assume we're back on the home screen. If the user clicks on the thought bubble, they will be brought to the middle-left screen, showing them short notation of questions and suggestions (i.e. if the question is too long then it will be cut off) and the exhibit it is referring to. By clicking on one of the reply buttons, the user will be taken to the middle-right screen, showing them a picture of the piece of exhibit, followed by the full question/suggestion, and the option to reply or ignore it. By clicking reply, the user then goes to the rightmost screen, opening a chat window that lets them send a message to the visitor who asked it. Aside: since we are creating a design for curators as our primary user, we are ignoring the implementation of the museum visitor aspects. Therefore, for now, we are not worrying about how this response gets into the hands of the visitor. ![communication functionality](/museum-experience/images/prototyping/pp-comm-flow-keyboard.jpg){:height="30%" width="30%"}
 
 
-### testing process
+## testing process
 
 Our heuristic evaluation can be found [here](htps://londonmeanswild.github.io/museum-experience/2018/10/30/heuristic/), while the usability design review can be found [here](https://londonmeanswild.github.io/museum-experience/2018/11/08/usability-review/). 
 
 In running the tests, we discovered that each user had a different way of navigating through their (identical) tasks. 
 **need more insights** 
 
-### testing results
+## testing results
 
 Our heuristic evaluation can be found [here](htps://londonmeanswild.github.io/museum-experience/2018/10/30/heuristic/), while the usability design review can be found [here](https://londonmeanswild.github.io/museum-experience/2018/11/08/usability-review/). 
 
@@ -60,7 +60,7 @@ Our heuristic evaluators were quite thorough, so our cognitive walkthrough prove
 The usability walkthroughs proved insightful, however, and 
 ![usability feedback table](/museum-experience/images/prototyping/usability-feedback-table.png){:height="100%" width="100%"}
 
-### final paper prototype
+## final paper prototype
 
 Our final paper prototype can be found towards the bottom of our usability review [page](https://londonmeanswild.github.io/museum-experience/2018/11/08/usability-review/). 
 
@@ -75,7 +75,7 @@ Our final paper prototype can be found towards the bottom of our usability revie
 ![final artwork analytics](/museum-experience/images/prototyping/final-artwork-analytics.JPG){:height="30%" width="30%"}
 ![final exhibit analytics](/museum-experience/images/prototyping/final-exhibit-analytics.JPG){:height="30%" width="30%"}
 
-#### Task Review
+### Task Review
 Note: task 1 is now a more specific version of our old task (summarizing and communicating data), and task 2 is staying the same. Since we are dealing with fictional data, it has been hard for us to figure out how vague or specific we need to be. However, after talking to a curator, I think we've narrowed down to three important pieces of information (there was discussion about this in the feedback table above). Based on this, we've decided that task 1 will revolve around communicating this information to the curators (in as simple a way as possible). Additionally, the curator seemed to be very interested in the communication aspect of our design (task 2), so we've also decided to keep that, and again, make that process as easy as possible.
 
 ### revised task one: find exhibit and artwork analytics
@@ -106,7 +106,7 @@ Let's assume the user clicks respond. Now they will see a response screen and be
       
       
 
-### digital mockup
+## digital mockup
 
 Our digital mockup page is [here](https://londonmeanswild.github.io/museum-experience/2018/11/12/digital-mock-up/). 
 
