@@ -95,33 +95,6 @@ Since we deleted the log-in screen, the user will start on the home screen. Simi
 ![final overview](/museum-experience/images/prototyping/final-overview.JPG){:height="80%" width="80%"}
 
 ### revised task one: allow curators to get a better understanding of their visitors by providing more information about visitors' behaviors and feelings towards certain exhibits/artwork
-We have two ways users can access and visualize the feedback data. After logging in, the user will be taken to the home screen seen on the bottom right side of the picture. They then have a couple options from here: click the all feedback button, click the thought bubble icon, or click one of the exhibits listed on the bottom half of the screen. Let's first assume they click the all feedback button. They will then be taken to the top right screen. This will show all visitor feedback from most recent to least recent. The sort button allows the curators to organize it from least recent to most recent. Additionally, there is a "narrow" field that results in a drop down, allowing the user to specify the feedback they want to see. 
-![all feedback](/museum-experience/images/prototyping/pp-feedback-flow.jpg){:height="50%" width="50%"}
-
-The other way users can see feedback is through specific exhibits. Assume we're back on the home page and the user decides to click on exhibit A. They will be brought to the middle screen where they will see artwork that was most recently commented on in that exhibit, and data analytics (i.e. graphs and charts) giving them information about the exhibit as a whole. When they click on a piece of art, they will be brought to the top right screen, showing them the piece, recent feedback about the piece, and data/graphs specific to that piece. On the other hand, if the user clicked on the "see more" for the data analytics, they would be brought to the bottom right screen, showing them all of the data for the exhibit as a whole.
-![exhibit functionality](/museum-experience/images/prototyping/pp-exhibit-flow.jpg){:height="50%" width="50%"}
-
-### revised task two: allow curators to communicate with visitors by giving them the ability to answer questions directly
-Now assume we're back on the home screen. If the user clicks on the thought bubble, they will be brought to the middle-left screen, showing them short notation of questions and suggestions (i.e. if the question is too long then it will be cut off) and the exhibit it is referring to. By clicking on one of the reply buttons, the user will be taken to the middle-right screen, showing them a picture of the piece of exhibit, followed by the full question/suggestion, and the option to reply or ignore it. By clicking reply, the user then goes to the rightmost screen, opening a chat window that lets them send a message to the visitor who asked it. Aside: since we are creating a design for curators as our primary user, we are ignoring the implementation of the museum visitor aspects. Therefore, for now, we are not worrying about how this response gets into the hands of the visitor. 
-![communication functionality](/museum-experience/images/prototyping/pp-comm-flow-keyboard.jpg){:height="70%" width="70%"}
-
-Our final paper prototype can be found towards the bottom of our usability review [page](https://londonmeanswild.github.io/museum-experience/2018/11/08/usability-review/). 
-
-![final overview](/museum-experience/images/prototyping/final-overview.JPG){:height="30%" width="30%"}
-
-![final home screen](/museum-experience/images/prototyping/final-home.JPG){:height="30%" width="30%"}
-
-![final all feedback](/museum-experience/images/prototyping/final-all-feedback.JPG){:height="30%" width="30%"}
-![final response preview](/museum-experience/images/prototyping/final-response-preview.JPG){:height="30%" width="30%"}
-![final response](/museum-experience/images/prototyping/final-response.JPG){:height="30%" width="30%"}
-      
-![final artwork analytics](/museum-experience/images/prototyping/final-artwork-analytics.JPG){:height="30%" width="30%"}
-![final exhibit analytics](/museum-experience/images/prototyping/final-exhibit-analytics.JPG){:height="30%" width="30%"}
-
-### Task Review
-Note: task 1 is now a more specific version of our old task (summarizing and communicating data), and task 2 is staying the same. Since we are dealing with fictional data, it has been hard for us to figure out how vague or specific we need to be. However, after talking to a curator, I think we've narrowed down to three important pieces of information (there was discussion about this in the feedback table above). Based on this, we've decided that task 1 will revolve around communicating this information to the curators (in as simple a way as possible). Additionally, the curator seemed to be very interested in the communication aspect of our design (task 2), so we've also decided to keep that, and again, make that process as easy as possible.
-
-### revised task one: find exhibit and artwork analytics
 The user starts at the home screen.
 ![new home screen](/museum-experience/images/prototyping/final-home.JPG){:height="80%" width="80%"}
 
@@ -131,23 +104,20 @@ They then have a couple options from here: click the all feedback button, or cli
 The graphs from the overall analytics are based on what we found are the most important and feasible pieces of information (feasible based on assuming we have visitor feedback data available, and important based on discussion with a curator). Let's assume the user then clicks on a specfic peice of artwork. They will then be taken to the artwork analytics page which shows the piece of art, and the same graphs, except using data for that specific piece work. Additionally, the emotional distribution graph might be confusing since negative emotion may seem like a bad thing, so there is a help button to explain that this might not be the case.
 ![new individual piece analytics screen](/museum-experience/images/prototyping/final-artwork-analytics.JPG){:height="80%" width="80%"}
 
-### revised task two: connecting curators with museum visitors
+### revised task two: allow curators to communicate with visitors by giving them the ability to answer questions directly
 Now let's assume users click the home button to get back to the home page.
 ![new home screen](/museum-experience/images/prototyping/final-home.JPG){:height="80%" width="80%"}
 
-If a user clicks the all feedback button, they will then be taken to the all feedback screen. This will show them all visitor feedback from most recent to least recent, categorized by exhibit. We have also determined that there are 3 types of comments: questions, suggestions (not a question, but comment implies that action should be taken), and general comments (comments that don't imply action should be taken). The user can then click one of the checkboxes in order to make certain types of questions appear or disappear based on what they want to see. 
+Let’s now assume they click the all feedback button. They will then be taken to the all feedback screen which will show them all visitor feedback from most recent to least recent, categorized by exhibit. We have also determined that there are 3 types of comments: questions, suggestions (not a question, but comment implies that action should be taken), and general comments (comments that don't imply action should be taken). The user can then click one of the checkboxes in order to make certain types of questions appear or disappear based on what they want to see. 
 ![new all feedback screen](/museum-experience/images/prototyping/final-all-feedback.JPG){:height="80%" width="80%"}
 
-If a user now wants to reply to a comment, they click reply ("ignored" and "replied" are also still clickable, and take you to the same screen). They will then be taken to a response preview screen where they can see the exhibit/artwork and the full question. The curator can see responses from previous curators, edit those responses, ignore the question (which will mark the question as ignored), or respond to the question. 
+Let's assume a user now wants to reply to a comment, so they click reply ("ignored" and "replied" are also still clickable, and take you to the same screen). They will then be taken to a response preview screen where they can see the exhibit/artwork and the full question. The curator can see responses from previous curators, edit those responses, ignore the question (which will mark the question as ignored), or respond to the question. 
 
 ![new response preview screen](/museum-experience/images/prototyping/final-response-preview.JPG){:height="80%" width="80%"}
 
 Let's assume the user clicks respond. Now they will see a response screen and be able to type and submit their response.
 
 ![new response screen](/museum-experience/images/prototyping/final-response.JPG){:height="80%" width="80%"}
-     
-      
-      
 
 ## digital mockup
 
