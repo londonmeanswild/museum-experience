@@ -6,6 +6,13 @@ image_path: /images/clients/blank.png
 
 ## understanding to make
 
+## connecting curators to what really matters
+## heART team:
+* chris anton: coordinating mastermind
+* kenneth an: artistic talent 
+* landon marchant: random ideas generator 
+* malibu: consultant and critic
+
 ### initial paper prototype
 Our initial paper prototype writeup can be found [here](https://londonmeanswild.github.io/museum-experience/2018/10/28/paper-prototypes/). 
 **need critical aspects still**
