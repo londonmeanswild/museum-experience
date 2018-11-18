@@ -103,9 +103,9 @@ Note: When we received user feedback, we were not only given information on how 
 
 
 ## Task Review
-Note: task 1 is now a more specific version of our old task (summarizing and communicating data), and task 2 is staying the same. Since we are dealing with fictional data, it has been hard for us to figure out how vague or specific we need to be. However, after talking to a curator, I think we've narrowed down to three important pieces of information (there was discussion about this in the feedback table above). Based on this, we've decided that task 1 will revolve around communicating this information to the curators (in as simple a way as possible). Additionally, the curator seemed to be very interested in the communication aspect of our design (task 2), so we've also decided to keep that, and again, make that process as easy as possible.
+Note: As we did usability tests, we realized that our tasks were either too specific and artificial or too vague. Therefore, we have decided to update our tasks: 1) curators can get a better understanding of their visitors by having more information about their visitors' behaviors and feelings towards certain exhibits/artwork, and 2) allow curators to communicate directly with visitors by giving them the ability to answer their questions. After explaining these tasks to U3, it appears that we have the right combination of a descriptive task that still gives the user enough freedom.
 
-### Task 1: Find Exhibit Graphs/Analytics
+### Task 1: curators can get a better understanding of their visitors by having more information about their visitors' behaviors and feelings towards certain exhibits/artwork
 The user starts at the home screen.
 ![new home screen](/museum-experience/images/prototyping/final-home.JPG){:height="80%" width="80%"}
 
@@ -115,7 +115,7 @@ They then have a couple options from here: click the all feedback button, or cli
 The graphs from the overall analytics are based on what we found are the most important and feasible pieces of information (feasible based on assuming we have visitor feedback data available, and important based on discussion with a curator). Let's assume the user then clicks on a specfic peice of artwork. They will then be taken to the artwork analytics page which shows the piece of art, and the same graphs, except using data for that specific piece work. Additionally, the emotional distribution graph might be confusing since negative emotion may seem like a bad thing, so there is a help button to explain that this might not be the case.
 ![new individual piece analytics screen](/museum-experience/images/prototyping/final-artwork-analytics.JPG){:height="80%" width="80%"}
 
-### Task 2: Connecting Curators with Museum Visitors
+### Task 2: allow curators to communicate directly with visitors by giving them the ability to answer their questions
 Now let's assume users click the home button to get back to the home page.
 ![new home screen](/museum-experience/images/prototyping/final-home.JPG){:height="80%" width="80%"}
 
