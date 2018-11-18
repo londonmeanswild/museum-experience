@@ -7,7 +7,7 @@ show_comments: true
 ### original design
 The original multi-screen image is included because the singles are rotated, even though they weren't in the original file. 
 
-![original home page, questions and suggestions, and question or suggestion](/museum-experience/images/prototyping/pp-comm-flow-keyboard.jpg){:height="50%" width="50%"}
+![original home page, questions and suggestions, and question or suggestion](/museum-experience/images/prototyping/pp-comm-flow-keyboard.jpg){:height="70%" width="70%"}
 ![original question or suggestion](/museum-experience/images/prototyping/answer-question-original.JPG){:height="50%" width="50%"}
 ![original home](/museum-experience/images/prototyping/original-home.JPG){:height="50%" width="50%"}
 ![original question or suggestion](/museum-experience/images/prototyping/original-comment.JPG){:height="50%" width="50%"}
