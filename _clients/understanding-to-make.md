@@ -74,7 +74,7 @@ We received a lot of feedback about our design, mostly regarding unclear buttons
 Additionally, more detailed information about our revisions can be seen in our [heuristic evaluation page](https://londonmeanswild.github.io/museum-experience/2018/10/30/heuristic/).
 
 ### cognitive walkthrough
-As mentioned above, since we may have known a little too well how our design worked, it was hard for us to find faults during our cognitive walkthrough. Additionally, the changes made from the heuristic evaluation removed a lot of ambiguity in certain locations. This led to a fairly unexciting cognitive walkthrough. However, we did realize that our tasks were a little too ambiguous, so we tried to make them more specific: revised task one was to find exhibit and artwork analytics, and revised task two was to respond to visitor questions. As we will discuss more below, we found that these tasks became a little too specfic and superficial.
+As mentioned above, since we may have known, a little too well, how our design worked, it was hard for us to find faults during our cognitive walkthrough. Additionally, the changes made from the heuristic evaluation removed a lot of ambiguity in certain locations. This led to a fairly unexciting cognitive walkthrough. However, we did realize that our tasks were a little too ambiguous, so we tried to make them more specific: revised task one was to find exhibit and artwork analytics, and revised task two was to respond to visitor questions. As we will discuss more below, we found that these tasks became a little too specfic and superficial.
 
 ### usability tests
 
