@@ -26,7 +26,7 @@ The graphs from the overall analytics are based on what we found are the most im
 
 ![Overall Jacket Analytics](/museum-experience/images/prototyping/digital_mockup/object-analytics-two.png){:height="40%" width="40%"}
 
-Let's assume the user then clicks on a specfic peice of artwork. They will then be taken to the artwork analytics page which shows the piece of art, and the same graphs, except using data for that specific piece work. Additionally, the emotional distribution graph might be confusing since negative emotion may seem like a bad thing, so there is a help button to explain that this might not be the case. 
+Now, let’s say the user clicks on a specfic peice of artwork. They will then be taken to the artwork analytics page which shows the piece of art, and the same graphs, except using data for that specific piece work. Additionally, the emotional distribution graph might be confusing since negative emotion may seem like a bad thing, so there is a help button to explain that this might not be the case.
 
 ![Overall Headdress Analytics with Help](/museum-experience/images/prototyping/digital_mockup/overall-object-analytics-information.png){:height="40%" width="40%"} ![Overall Jacket Analytics with Help](/museum-experience/images/prototyping/digital_mockup/object-analytics-two-information.png){:height="40%" width="40%"}
 
@@ -38,7 +38,7 @@ Now let's assume users click the home button to get back to the home page.
 
 ![Home Screen](/museum-experience/images/prototyping/digital_mockup/home-screen.jpg.png){:height="40%" width="40%"} 
 
-Let’s now assume they click the all feedback button. They will then be taken to the all feedback screen which will show them all visitor feedback from most recent to least recent, categorized by exhibit. 
+If they click the all feedback button, the user will then be taken to the “all feedback” screen, which will show them all visitor feedback from most recent to least recent, categorized by exhibit.
 
 ![All Feedback](/museum-experience/images/prototyping/digital_mockup/exhibits-all-responses.jpg.png){:height="40%" width="40%"}
 
@@ -46,12 +46,13 @@ We have also determined that there are 3 types of comments: questions, suggestio
 
 ![Questions in Feedback](/museum-experience/images/prototyping/digital_mockup/questions-all-responses.jpg.png){:height="40%" width="40%"}
 
-Let's assume a user now wants to reply to a question, so they click reply ("ignored" and "replied" are also still clickable, and take you to the same screen). They will then be taken to a response preview screen where they can see the exhibit/artwork and the full question. The curator can see responses from previous curators, edit those responses, ignore the question (which will mark the question as ignored), or respond to the question.
+If a user wants to reply to a question, they can click “reply” (“ignored” and “replied” are also still clickable, and take you to the same screen). They will then be taken to a response preview screen where they can see the exhibit/artwork and the full question. The curator can see responses from previous curators, edit those responses, ignore the question (which will mark the question as ignored), or respond to the question.
 
 ![Preview Question](/museum-experience/images/prototyping/digital_mockup/respond-ignore-question.jpg.png){:height="40%" width="40%"}
 
-Let's assume the user clicks respond. Now they will see a response screen and be able to type and submit their response.
-![Respond](/museum-experience/images/prototyping/digital_mockup/reply-to-question.jpg.png){:height="40%" width="40%"} ![Response Sent!](/museum-experience/images/prototyping/digital_mockup/you-replied.jpg.png){:height="40%" width="40%"}
+The user can then click respond to open the response screen, allowing them to type and submit their response.
+![Respond](/museum-experience/images/prototyping/digital_mockup/reply-to-question.jpg.png){:height="40%" width="40%"} 
+![Response Sent!](/museum-experience/images/prototyping/digital_mockup/you-replied.jpg.png){:height="40%" width="40%"}
 
 
 
