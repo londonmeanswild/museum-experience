@@ -168,3 +168,8 @@ The user can then click respond to open the response screen, allowing them to ty
 ![Response Sent!](/museum-experience/images/prototyping/digital_mockup/you-replied.jpg.png){:height="40%" width="40%"}
 
 ## Discussion
+
+The process of iterative design showed us that our ideas of solutions and what users need in solutions didn't always align.  We learned to listen to our users in order to find what they needed. We also learned that asking questions wasn't as easy as it seemed at first. The wrong question could bring our conversation in an entirely unproductive direction. Targeted and tight questions would provide the answers we wanted but not the anwswers we needed, while open-ended questions provided us with too many ideas and information outside of our scope. 
+The usability tests caused our tasks to move in from abstract to specific. During UT1 we realized that too specific, too artificial, tasks gave us results we wanted and narrow feedback. UT2 had too little structure, and two general tasks. Our tasks were refined by the final usability test. However, UT3 also wanted to engage with what information was collected and how, which was not part of our scope. 
+
+It would have been really nice to do more ideations with our digital prototypes, because our "final design" doesn't feel like it should be final. There were relatively major changes between our first and final designs, it would be nice to see if our final design is in fact what users want. 
