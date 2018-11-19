@@ -121,9 +121,13 @@ Let's assume the user clicks respond. Now they will see a response screen and be
 
 ## digital mockup
 
-Note: even though we had noticed that the log-in screen may have been unnecessary, we decided to keep it in as a signal that profiles can exist. Since the intial paper prototype, we added the ability to see previous curator responses to a question. However, we also wanted visitors to know which curators provided the response. After talking with UT3, this seemed to be favorable because curators want to have a closer connection with their visitors (and this is harder to do through anonymized feedback). Therefore, we decided to keep the log-in screen as part of our prototype.
+### overview
 
-Overall, our digital mockup is fairly consistent with the final paper prototype. However, one main difference is that we decided to leave in a login screen and added a home page profile button. When curators respond to questions, it is probably important to know which curators responded to which questions. Therefore, we decided to show that accounts for each curator should exist so that responses to questions are a little more personal (in contrast to being anonymized). This way visitors know which curators answered their questions and can ask these specific curators if they have further questions. Additionally, we made the questions and descriptions throughout the design more specific in order to have a more realistic feel. We also added a confirmation popup to curator replies to questions (just to make the submitting action more explicit).
+Overall, our digital mockup is fairly consistent with the final paper prototype. However, one main difference is that we decided to leave in a login screen and added a home page profile button. When curators respond to questions, it is probably important to know which curators responded to which questions. Therefore, we decided to show that accounts for each curator should exist so that responses to questions are a little more personal (in contrast to being anonymized). This way visitors know which curators answered their questions and can ask these specific curators if they have further questions (we mentioned this idea to UT3 and she said she liked it). We also made the questions and descriptions throughout the design more specific in order to have a more realistic feel. Additionally, we  added a confirmation popup to curator replies to questions (just to make the submitting action more explicit), and also (based on feedback), made the shade of red in our interface darker. 
+
+
+
+
 
 Our digital mockup page is [here](https://londonmeanswild.github.io/museum-experience/2018/11/12/digital-mock-up/). 
 
