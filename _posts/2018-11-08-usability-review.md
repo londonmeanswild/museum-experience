@@ -19,7 +19,7 @@ However, soon after the introduction, UT2 qucikly began clicking through the int
 
 In our discussion, Chris asked specifically what kind of data UT2 would want access to as a user, what kinds of charts would be useful, and what kind of layouts may be more intuitive. UT2 said that she wants to know if visitors are getting the takeaway that UT2 is intending. This is the information she voiced as most crucial. Chris also specifically asked how we should organize questions, comments, and feedback. UT2 pointed out that questions are different from suggestions which are different from general feedback and event-specific feedback. This supported our idea that we needed to explicitly separate comments, suggestions, and questions so people can have an idea for the type of feedback they should expect. UT2 also had multiple ideas about other functionality that we could add to the design; however, due to time limitations, we decided not to implement these changes (otherwise, it would require additional tests to make sure we implemented them correctly).
 
-We did not make any changes to the paper prototype after UT2 since we wanted to see if UT3, a curator, had similar responses and navigation patterns to UT2. The recommended changes by UT2 were (the recommendations below that we actually implemented are shown in the table later on this page):
+We did not make any changes to the paper prototype after UT2 since we wanted to see if UT3, a curator, had similar responses and navigation patterns to UT2. The recommended changes by UT2 are listed below:
 * Ability to navigate from data analytics to comments
 * Amazon review organizational style in bar chart for feedback, each bar takes you to the corresponding feedback.
 * Add help feature to home screen
@@ -27,6 +27,7 @@ We did not make any changes to the paper prototype after UT2 since we wanted to 
 * Allow curators to generate their own graphs based on data, offer different types of visualizations they can work with. 
 * Consider a notes function 
 * Ability to store art in a "future exhibits" section so curators can plan in anticipation. Provide tools they need to create initial layouts and collect pieces. 
+Aside: the recommendations that were actually implemented are shown in the table later on this page.
 
 Additionally, at this point we realized that we had to redefine our tasks. In the first usability test our tasks were too artifical, making the walkthrough very unnatural. However, in the second usability test we didn't really follow the tasks which made it very hard to stay focused on feedback we needed. Therefore, we came up with the following tasks: 1) allow curators to get a better understanding of their visitors by providing more information about visitors’ behaviors and feelings towards certain exhibits/artwork, and 2) allow curators to communicate with visitors by giving them the ability to answer questions directly.
 
