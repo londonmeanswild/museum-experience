@@ -95,24 +95,24 @@ Note: As noted above, we realized that our tasks were either too specific and ar
 The user starts at the home screen.
 ![new home screen](/museum-experience/images/prototyping/final-home.JPG){:height="80%" width="80%"}
 
-They then have a couple options from here: click the all feedback button, or click one of the exhibits listed on the bottom half of the screen. Let’s first assume they click one of the exhibits. They will then be taken to the analytics for the exhibit they clicked, showing both the overall analytics for the exhibit and an alphabetically organized set of the artwork in that exhibit. 
+They then have a couple options from here: click the all feedback button, or click one of the exhibits listed on the bottom half of the screen. Let’s first say they click one of the exhibits. They will then be taken to the analytics for the exhibit they clicked, showing both the overall analytics for the exhibit and an alphabetically organized set of the artwork in that exhibit. 
 ![new exhibit analytics](/museum-experience/images/prototyping/final-exhibit-analytics.JPG){:height="80%" width="80%"}
 
-The graphs from the overall analytics are based on what we found are the most important and feasible pieces of information (feasible based on assuming we have visitor feedback data available, and important based on discussion with a curator). Let's assume the user then clicks on a specfic peice of artwork. They will then be taken to the artwork analytics page which shows the piece of art, and the same graphs, except using data for that specific piece work. Additionally, the emotional distribution graph might be confusing since negative emotion may seem like a bad thing, so there is a help button to explain that this might not be the case.
+The graphs from the overall analytics are based on what we found are the most important and feasible pieces of information (feasible based on assuming we have visitor feedback data available, and important based on discussion with a curator). Now, if the user clicks on a specfic peice of artwork, they will then be taken to the artwork analytics page which shows the piece of art, and the same graphs, except using data for that specific piece work. Additionally, the emotional distribution graph might be confusing since negative emotion may seem like a bad thing, so there is a help button to explain that this might not be the case.
 ![new individual piece analytics screen](/museum-experience/images/prototyping/final-artwork-analytics.JPG){:height="80%" width="80%"}
 
 ### Task 2: allow curators to communicate with visitors by giving them the ability to answer questions directly
-Now let's assume users click the home button to get back to the home page.
+Now let's assume the user clicks the home button to get back to the home page.
 ![new home screen](/museum-experience/images/prototyping/final-home.JPG){:height="80%" width="80%"}
 
-Let’s now assume they click the all feedback button. They will then be taken to the all feedback screen which will show them all visitor feedback from most recent to least recent, categorized by exhibit. We have also determined that there are 3 types of comments: questions, suggestions (not a question, but comment implies that action should be taken), and general comments (comments that don't imply action should be taken). The user can then click one of the checkboxes in order to make certain types of questions appear or disappear based on what they want to see. 
+If they click the all feedback button then they will then be taken to the all feedback screen, showing them all visitor feedback from most recent to least recent, categorized by exhibit. We have also determined from our usability tests with UT2 and UT3 that there are 3 types of comments: questions, suggestions (not a question, but implies action should be taken), and general comments (these do not imply action should be taken). The user can then click one of the checkboxes in order to make certain types of feedback appear or disappear based on what they want to see. 
 ![new all feedback screen](/museum-experience/images/prototyping/final-all-feedback.JPG){:height="80%" width="80%"}
 
-Let's assume a user now wants to reply to a comment, so they click reply ("ignored" and "replied" are also still clickable, and take you to the same screen). They will then be taken to a response preview screen where they can see the exhibit/artwork and the full question. The curator can see responses from previous curators, edit those responses, ignore the question (which will mark the question as ignored), or respond to the question. 
+If the user wants to reply to a comment, they can click "reply" ("ignored" and "replied" are also still clickable, and take you to the same screen). They will then be taken to a response preview screen where they can see the exhibit/artwork and the full question. The curator can see responses from previous curators, edit those responses, ignore the question (which will mark the question as ignored), or respond to the question. 
 
 ![new response preview screen](/museum-experience/images/prototyping/final-response-preview.JPG){:height="80%" width="80%"}
 
-Let's assume the user clicks respond. Now they will see a response screen and be able to type and submit their response.
+Let's say the user clicks respond. Now they will see a response screen and be able to type and submit their response.
 
 ![new response screen](/museum-experience/images/prototyping/final-response.JPG){:height="80%" width="80%"}
 
