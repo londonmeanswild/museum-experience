@@ -127,7 +127,7 @@ After the usability tests, we realized that the all feedback screen was vague (r
 ### Artwork Analytics Organization
 In our original exhibit analytics page, we simply had a list of thumbnails to let users know that they could click to get specific artwork analatics. However, to our users, this was confusing and a little overwhelming (they also didn't know how these were ordered). We decided to categorize the artworks alphbetically to give a clear indication of order, and mention in the artwork analytics header that they can click on a piece. This makes the functionality clearer and more intuitive to use. Futher, since it would make sense for the exhibit analytics to be the highlight of the exhibit analytics page, we decided to flip the "exhibit analytics" section with the "artwork analytics" section. 
 
-### Task Changes
+### Task Revisions
 Finally, we were able to create a pair of tasks that seemed to adequately describe what we are trying to accomplish in our design. Even though it took us awhile to figure out this balance, we now have tasks that do a better job at encompassing the scope of our project. 
 
 
