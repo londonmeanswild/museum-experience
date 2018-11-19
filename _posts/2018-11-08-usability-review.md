@@ -30,7 +30,7 @@ We did not make any changes to the paper prototype after UT2 since we wanted to 
 
 Aside: the recommendations that were actually implemented are shown in the table later on this page.
 
-Additionally, at this point we realized that we had to redefine our tasks. In the first usability test our tasks were too artifical, making the walkthrough very unnatural. However, in the second usability test we didn't really follow the tasks which made it very hard to stay focused on feedback we needed. Therefore, we came up with the following tasks: 1) allow curators to get a better understanding of their visitors by providing more information about visitors’ behaviors and feelings towards certain exhibits/artwork, and 2) allow curators to communicate with visitors by giving them the ability to answer questions directly.
+Additionally, at this point we realized that we had to redefine our tasks. In the first usability test our tasks were too artifical, making the walkthrough very unnatural. However, in the second usability test we didn't really follow the tasks,  making it very hard to stay focused on the feedback we needed. Therefore, we came up with the following tasks: 1) allow curators to get a better understanding of their visitors by providing more information about visitors’ behaviors and feelings towards certain exhibits/artwork, and 2) allow curators to communicate with visitors by giving them the ability to answer questions directly.
 
 ### Usability Test 3
 
