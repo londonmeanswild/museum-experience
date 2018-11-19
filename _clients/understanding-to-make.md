@@ -146,7 +146,7 @@ Let's assume the user then clicks on a specfic peice of artwork. They will then 
 
 ![Overall Headdress Analytics with Help](/museum-experience/images/prototyping/digital_mockup/overall-object-analytics-information.png){:height="40%" width="40%"} ![Overall Jacket Analytics with Help](/museum-experience/images/prototyping/digital_mockup/object-analytics-two-information.png){:height="40%" width="40%"}
 
-#### Task 2 allow curators to communicate with visitors by giving them the ability to answer questions directly
+### Task 2 allow curators to communicate with visitors by giving them the ability to answer questions directly
 
 Now let's assume users click the home button to get back to the home page. 
 
