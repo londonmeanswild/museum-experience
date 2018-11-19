@@ -165,6 +165,8 @@ Let's assume a user now wants to reply to a question, so they click reply ("igno
 ![Preview Question](/museum-experience/images/prototyping/digital_mockup/respond-ignore-question.jpg.png){:height="40%" width="40%"}
 
 Let's assume the user clicks respond. Now they will see a response screen and be able to type and submit their response.
-![Respond](/museum-experience/images/prototyping/digital_mockup/reply-to-question.jpg.png){:height="40%" width="40%"} ![Response Sent!](/museum-experience/images/prototyping/digital_mockup/you-replied.jpg.png){:height="40%" width="40%"}
+
+![Respond](/museum-experience/images/prototyping/digital_mockup/reply-to-question.jpg.png){:height="40%" width="40%"} 
+![Response Sent!](/museum-experience/images/prototyping/digital_mockup/you-replied.jpg.png){:height="40%" width="40%"}
 
 ## Discussion
