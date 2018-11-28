@@ -1,7 +1,7 @@
 ---
 name: project proposal
 subtitle: the beginning
-image_path: /images/clients/blank.png
+image_path: /images/portfolio-previews/object-lab.jpg
 --- 
 
 #### The Problem
