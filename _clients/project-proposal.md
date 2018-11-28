@@ -1,6 +1,6 @@
 ---
-name: project proposal
-subtitle: the beginning
+name: 
+subtitle: project proposal
 image_path: /images/portfolio-previews/object-lab.jpg
 --- 
 
