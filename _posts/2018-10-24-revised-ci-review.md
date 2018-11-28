@@ -1,6 +1,5 @@
 ---
-name: heART
-subtitle: revised contextual inquiry review
+title: revised contextual inquiry review
 image_path: /images/clients/blank.png
 ---
 Revisions are **in bold** for this page. 
