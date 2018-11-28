@@ -1,22 +1,22 @@
-- title: Pages
+- title: pages
   links:
-    - name: Home
+    - name: home
       link: /
-    - name: Portfolio
+    - name: portfolio
       link: /portfolio/
-    - name: Appendix
+    - name: appendix
       link: /blog/
-    - name: About
+    - name: about
       link: /about/
 
-- title: Our Team
+- title: our team
   links:
-    - name: Chris Anton
+    - name: chris anton
       link: https://cla1.github.io/
       new_window: true
-    - name: Kenneth An
+    - name: kenneth an
       link: https://kennethan12.github.io/
       new_window: true
-    - name: Landon Marchant
+    - name: landon marchant
       link: https://londonmeanswild.github.io/CS376/
       new_window: true
