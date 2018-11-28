@@ -1,10 +1,6 @@
 ---
 type: post
 title: landon's individual project feedback
-categories:
-  - groundwork
-author_staff_member: landon
-show_comments: true
 ---
 #### Problem and Motivation
 
