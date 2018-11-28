@@ -1,6 +1,6 @@
 ---
-name: heART
-subtitle: project proposal
+name: project proposal
+subtitle: the beginning
 image_path: /images/clients/blank.png
 --- 
 
