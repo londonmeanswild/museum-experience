@@ -1,6 +1,6 @@
 ---
-name: heART
-subtitle: understanding to make
+name: understanding to make
+subtitle: design process and testing 
 image_path: /images/clients/blank.png
 ---
 
