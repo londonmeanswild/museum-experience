@@ -1,10 +1,6 @@
 ---
-title: contextual inquiry
-categories:
-  - groundwork
-  - research
-author_staff_member: chris
-show_comments: true
+type: post
+title: initial contextual inquiry
 ---
 
 Our design is directed towards people who need additional information about art’s emotional impact on the general public, beyond just observing and analyzing the pieces themselves. We have three primary targets for our contextual inquiries:
