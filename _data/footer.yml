@@ -11,13 +11,12 @@
     - name: Contact
       link: /contact/
 - title: Our Team
-
-    - name: Chris 
+    - name: Chris Anton
       link: https://cla1.github.io/
       new_window: true
-    - name: Kenneth
+    - name: Kenneth An
       link: https://kennethan12.github.io/
       new_window: true
-    - name: Landon
+    - name: Landon Marchant
       link: https://londonmeanswild.github.io/CS376/
       new_window: true
