@@ -11,6 +11,7 @@
     - name: Contact
       link: /contact/
 - title: Our Team
+  links:
     - name: Chris Anton
       link: https://cla1.github.io/
       new_window: true
