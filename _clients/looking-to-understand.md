@@ -1,7 +1,8 @@
 ---
 name: looking to understand
 subtitle: user research and task selection
-image_path: /images/clients/blank.png
+image_path: /images/portfolio-previews/looking-to-understand.png
+      
 ---
 
 ## connecting curators to what really matters
