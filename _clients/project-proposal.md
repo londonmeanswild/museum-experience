@@ -18,4 +18,4 @@ The base for this project is Landon's [emotional responses to art project propos
 
 Our vision is to create an application that will organize and present user data. We want to allow curators to understand the experiences of visitors. Furthermore, we want to repurpose some of those data visualizations. We think it would be cool to have interactive wall panels of anonymized data for visitors to play with.
 
-Our original project proposal can be found [here](https://londonmeanswild.github.io/museum-experience/2018/09/28/initial-proj-proposal/)
+Our original project proposal can be found [here.](https://londonmeanswild.github.io/museum-experience/2018/09/28/initial-proj-proposal/)
