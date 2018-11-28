@@ -1,7 +1,7 @@
 ---
-name: understanding to make
-subtitle: design process and testing 
-image_path: /images/clients/blank.png
+subtitle: understanding to make
+name: 
+image_path: /images/portfolio-previews/understanding-to-make-preview.png 
 ---
 
 ## connecting curators to what really matters
