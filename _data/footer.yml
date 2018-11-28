@@ -10,21 +10,14 @@
       link: /about/
     - name: Contact
       link: /contact/
-- title: Social
-  links:
-    - name: Facebook
-      link:
-      social_icon: Facebook
+- title: Our Team
+
+    - name: Chris 
+      link: https://cla1.github.io/
       new_window: true
-    - name: Twitter
-      link:
-      social_icon: Twitter
+    - name: Kenneth
+      link: https://kennethan12.github.io/
       new_window: true
-    - name: Google+
-      link:
-      social_icon: Google Plus
-      new_window: true
-    - name: LinkedIn
-      link:
-      social_icon: LinkedIn
+    - name: Landon
+      link: https://londonmeanswild.github.io/CS376/
       new_window: true
