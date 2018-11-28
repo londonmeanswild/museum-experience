@@ -1,6 +1,6 @@
 ---
-name: heART
-subtitle: looking to understand
+name: looking to understand
+subtitle: user research and task selection
 image_path: /images/clients/blank.png
 ---
 
