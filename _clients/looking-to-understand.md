@@ -1,6 +1,6 @@
 ---
-name: looking to understand
-subtitle: user research and task selection
+name: 
+subtitle: looking to understand
 image_path: /images/portfolio-previews/looking-to-understand.png
       
 ---
