@@ -1,8 +1,8 @@
 ---
 name: Landon Marchant
-subtitle: personal portfolio page
+subtitle: co-founder
 external_url: https://londonmeanswild.github.io/CS376/
-image_path: /images/clients/blank.png
+image_path: /images/landon.jpg
 ---
 
 <meta http-equiv="refresh" content="0; URL=https://londonmeanswild.github.io/CS376/">
