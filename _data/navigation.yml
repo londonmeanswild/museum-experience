@@ -1,9 +1,15 @@
 links:
-- name: portfolio
-  link: /portfolio/
+- name: home
+  link: /index/
 - name: appendix
   link: /blog/
-- name: our team
-  link: /about/
+
+#links:
+#- name: portfolio
+#  link: /portfolio/
+#- name: appendix
+#  link: /blog/
+#- name: our team
+#  link: /about/
 # - name: Contact
   # link: /contact/
