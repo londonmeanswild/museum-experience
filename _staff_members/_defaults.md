@@ -1,5 +1,6 @@
 ---
 name:
-position:
+subtitle:
+external_url:
 image_path:
 ---
