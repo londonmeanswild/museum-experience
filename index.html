@@ -27,7 +27,7 @@ title: heART
 			{% for client in site.clients %}
 				<li>
 					<a href="{{ site.baseurl }}{{ client.url }}">
-						<img src="{% include relative-src.html src=client.image_path %}" alt="{{ person.name }}" height="50%" width="50%">
+						<img src="{% include relative-src.html src=client.image_path %}" alt="{{ person.name }}" height:"50%" width:"50%">
 						<div class="details">
 							<div class="name">{{ client.name }}</div>
 							<div class="position">{{ client.subtitle }}</div>
