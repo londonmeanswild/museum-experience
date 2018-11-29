@@ -1,6 +1,6 @@
 ---
 name: Chris Anton
-subtitle: personal portfolio page
+subtitle: co-founder
 external_url: https://cla1.github.io/
 image_path: /images/chris.jpg
 ---
