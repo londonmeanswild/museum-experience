@@ -1,6 +1,6 @@
 ---
 name: Chris Anton
-subtitle: co-founder
+position: co-founder
 image_path: /images/chris.jpg
 link: https://cla1.github.io/
 ---
