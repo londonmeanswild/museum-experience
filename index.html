@@ -24,38 +24,6 @@ title: heART
 	    <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_staff_members/" class="btn"><strong>&#9998;</strong>Manage Staff members</a></p>
 		<ul class="image-grid">
 			{% for member in site.staff_members %}
-				<li>{% include relative-src.html src=staff_members.image_path %}</li>
-			{% endfor %}
-		</ul>
-	</div>
-</section>
-
-<section class="diagonal patterned">
-	<div class="container">
-	    <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_staff_members/" class="btn"><strong>&#9998;</strong> staff members</a></p>
-		<ul class="image-grid">
-			{% for member in site.staff_members %}
-				<li>
-					<a href="{{ site.baseurl }}{{ staff_members.url }}">
-						<img src="{% include relative-src.html src=staff_members.image_path %}" alt="{{ person.name }}">
-						<div class="details">
-							<div class="name">{{ staff_members.name }}</div>
-							<div class="position">{{ staff_members.subtitle }}</div>
-						</div>
-					</a>
-				</li>
-			{% endfor %}
-			<li class="filler"></li>
-			<li class="filler"></li>
-		</ul>
-	</div>
-</section>
-
-<section class="diagonal patterned">
-	<div class="container">
-	    <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_staff_members/" class="btn"><strong>&#9998;</strong>Manage Staff members</a></p>
-		<ul class="image-grid">
-			{% for member in site.staff_members %}
 				<li>{% include staff-member.html member=member %}</li>
 			{% endfor %}
 		</ul>
