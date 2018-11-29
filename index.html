@@ -21,6 +21,17 @@ title: heART
 
 <section class="diagonal patterned">
 	<div class="container">
+	    <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_staff_members/" class="btn"><strong>&#9998;</strong>Manage Staff members</a></p>
+		<ul class="image-grid">
+			{% for member in site.staff_members %}
+				<li>{% include relative-src.html src=staff_members.image_path %}</li>
+			{% endfor %}
+		</ul>
+	</div>
+</section>
+
+<section class="diagonal patterned">
+	<div class="container">
 	    <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_staff_members/" class="btn"><strong>&#9998;</strong> staff members</a></p>
 		<ul class="image-grid">
 			{% for member in site.staff_members %}
