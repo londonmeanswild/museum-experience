@@ -1,7 +1,6 @@
 ---
-name:
-subtitle:
-external_url:
-image_path:
-sitename:
+name: 
+subtitle: 
+image_path: 
+link: 
 ---
