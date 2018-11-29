@@ -18,25 +18,15 @@ title: heART
 		<h1> Solution goes here </h1>
 	</div>
 </section>
-	
+
 <section class="diagonal patterned">
+	<h1> Our Team </h1>
 	<div class="container">
-		<h1> Our Team </h1>
-	    <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_clients/" class="btn"><strong>&#9998;</strong> manage clients</a></p>
+	    <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_staff_members/" class="btn"><strong>&#9998;</strong>Manage Staff members</a></p>
 		<ul class="image-grid">
-			{% for client in site.clients %}
-				<li>
-					<a href="{{ site.baseurl }}{{ client.url }}">
-						<img src="{% include relative-src.html src=client.image_path %}" alt="{{ person.name }}">
-						<div class="details">
-							<div class="name">{{ client.name }}</div>
-							<div class="position">{{ client.subtitle }}</div>
-						</div>
-					</a>
-				</li>
+			{% for member in site.staff_members %}
+				<li>{% include staff-member.html member=member %}</li>
 			{% endfor %}
-			<li class="filler"></li>
-			<li class="filler"></li>
 		</ul>
 	</div>
 </section>
