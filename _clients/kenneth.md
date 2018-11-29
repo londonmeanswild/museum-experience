@@ -1,8 +1,8 @@
 ---
 name: Kenneth An
-subtitle: personal portfolio page
+subtitle: co-founder
 external_url: https://kennethan12.github.io/
-image_path: /images/clients/blank.png
+image_path: /images/kenneth.jpg
 ---
 
 <meta http-equiv="refresh" content="0; URL=https://kennethan12.github.io/">
