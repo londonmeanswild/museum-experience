@@ -1,6 +1,6 @@
 ---
-subtitle: understanding to make
-name: Implementing
+subtitle: Implementing
+name: 
 image_path: /images/portfolio-previews/understanding-to-make-preview.png 
 ---
 
