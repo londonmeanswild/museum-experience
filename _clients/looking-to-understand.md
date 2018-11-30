@@ -1,6 +1,6 @@
 ---
 name: Understanding the Design
-subtitle: Looking to Understand
+subtitle: Understanding the Design
 image_path: /images/portfolio-previews/looking-to-understand.png
       
 ---
