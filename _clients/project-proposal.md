@@ -1,6 +1,6 @@
 ---
-name: 
-subtitle: project proposal
+name: Brainstorming the Design
+subtitle: Brainstorming the Design
 image_path: /images/portfolio-previews/object-lab.jpg
 --- 
 
