@@ -40,6 +40,7 @@ title:
 	</div>
 </section>
 
+<!--
 <section class="diagonal">
 	<div class="container">
 		<h1 align="center"> Try Our Interactive Prototype </h1> 
@@ -47,6 +48,7 @@ title:
 		<embed src="/museum-experience/images/digital-mockup.pdf" type="application/pdf" width="600px" height="850px" />
 	</div>
 </section>
+-->
 
 <!--
 <section class="diagonal alternate">
@@ -109,28 +111,6 @@ title:
 		</div>
 	</div>
 </section>
-
-<section class="diagonal patterned">
-	<div class="container">
-	    <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_clients/" class="btn"><strong>&#9998;</strong> manage clients</a></p>
-		<ul class="image-grid">
-			{% for client in site.clients %}
-				<li>
-					<a href="{{ site.baseurl }}{{ client.url }}">
-						<img src="{% include relative-src.html src=client.image_path %}" alt="{{ person.name }}">
-						<div class="details">
-							<div class="name">{{ client.name }}</div>
-							<div class="position">{{ client.subtitle }}</div>
-						</div>
-					</a>
-				</li>
-			{% endfor %}
-			<li class="filler"></li>
-			<li class="filler"></li>
-		</ul>
-	</div>
-</section>
--->
 	
 <section class="diagonal patterned">
 	<div class="container">
