@@ -1,5 +1,5 @@
 ---
-name: Brainstorming the Design
+name: 
 subtitle: Brainstorming the Design
 image_path: /images/portfolio-previews/object-lab.jpg
 --- 
