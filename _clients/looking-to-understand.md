@@ -1,6 +1,6 @@
 ---
-name: 
-subtitle: looking to understand
+name: Understanding the Design
+subtitle: Looking to Understand
 image_path: /images/portfolio-previews/looking-to-understand.png
       
 ---
