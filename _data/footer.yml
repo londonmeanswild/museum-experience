@@ -8,6 +8,8 @@
       link: /blog/
     - name: about
       link: /about/
+    - name: github repository
+      link: https://github.com/londonmeanswild/museum-experience
 
 - title: our team
   links:
